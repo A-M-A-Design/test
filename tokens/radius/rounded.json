@@ -1,0 +1,40 @@
+{
+  "radius": {
+    "xs": {
+      "value": "{positive-4}",
+      "type": "number"
+    },
+    "sm": {
+      "value": "{positive-6}",
+      "type": "number"
+    },
+    "xl": {
+      "value": "{positive-24}",
+      "type": "number"
+    },
+    "md": {
+      "value": "{positive-8}",
+      "type": "number"
+    },
+    "2xs": {
+      "value": "{positive-2}",
+      "type": "number"
+    },
+    "l": {
+      "value": "{positive-16}",
+      "type": "number"
+    },
+    "2xl": {
+      "value": "{positive-32}",
+      "type": "number"
+    },
+    "3xl": {
+      "value": "{positive-40}",
+      "type": "number"
+    },
+    "4xl": {
+      "value": "{positive-48}",
+      "type": "number"
+    }
+  }
+}

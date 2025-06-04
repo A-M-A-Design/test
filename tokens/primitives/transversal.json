@@ -1,0 +1,128 @@
+{
+  "gold": {
+    "61": {
+      "value": "#af913a",
+      "type": "color"
+    },
+    "70": {
+      "value": "#c4a963",
+      "type": "color"
+    },
+    "78": {
+      "value": "#d7bf7a",
+      "type": "color"
+    }
+  },
+  "purple": {
+    "17": {
+      "value": "#1a2366",
+      "type": "color"
+    },
+    "25": {
+      "value": "#2a347e",
+      "type": "color"
+    },
+    "33": {
+      "value": "#3d4892",
+      "type": "color"
+    },
+    "79": {
+      "value": "#bdc3df",
+      "type": "color"
+    },
+    "94": {
+      "value": "#eaedf5",
+      "type": "color"
+    },
+    "54-temp": {
+      "value": "#717cc4",
+      "type": "color"
+    }
+  },
+  "pink": {
+    "21": {
+      "value": "#6e0015",
+      "type": "color"
+    },
+    "33": {
+      "value": "#9c0139",
+      "type": "color"
+    },
+    "39": {
+      "value": "#ba0244",
+      "type": "color"
+    },
+    "45": {
+      "value": "#d4024d",
+      "type": "color"
+    },
+    "79": {
+      "value": "#fbacc8",
+      "type": "color"
+    },
+    "93": {
+      "value": "#ffe6ef",
+      "type": "color"
+    },
+    "58-temp": {
+      "value": "#fd3f83",
+      "type": "color"
+    }
+  },
+  "silver": {
+    "31": {
+      "value": "#49494b",
+      "type": "color"
+    },
+    "41": {
+      "value": "#5f6063",
+      "type": "color"
+    },
+    "50": {
+      "value": "#76777a",
+      "type": "color"
+    }
+  },
+  "platinum": {
+    "27": {
+      "value": "#394049",
+      "type": "color"
+    },
+    "36": {
+      "value": "#4f565e",
+      "type": "color"
+    },
+    "45": {
+      "value": "#656b73",
+      "type": "color"
+    }
+  },
+  "diamond": {
+    "76": {
+      "value": "#bababa",
+      "type": "color"
+    },
+    "81": {
+      "value": "#cacaca",
+      "type": "color"
+    },
+    "87": {
+      "value": "#d9d9d9",
+      "type": "color"
+    }
+  },
+  "limitless": {
+    "0": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "21": {
+      "value": "#323234",
+      "type": "color"
+    },
+    "31": {
+      "value": "#49494b",
+      "type": "color"
+    }
+  }
+}

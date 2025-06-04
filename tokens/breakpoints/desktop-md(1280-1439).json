@@ -1,0 +1,812 @@
+{
+  "font": {
+    "family": {
+      "value": "Roboto",
+      "type": "text"
+    },
+    "weight-default": {
+      "value": "Regular",
+      "type": "text"
+    },
+    "weight-strong": {
+      "value": "Medium",
+      "type": "text"
+    },
+    "family-hi": {
+      "value": "Montserrat",
+      "type": "text"
+    },
+    "display": {
+      "weight": {
+        "value": "Bold",
+        "type": "text"
+      },
+      "01-size": {
+        "value": "{positive-64}",
+        "type": "number"
+      },
+      "01-height": {
+        "value": "{positive-76}",
+        "type": "number"
+      },
+      "02-size": {
+        "value": "{positive-48}",
+        "type": "number"
+      },
+      "02-height": {
+        "value": "{positive-56}",
+        "type": "number"
+      },
+      "03-size": {
+        "value": "{positive-36}",
+        "type": "number"
+      },
+      "03-height": {
+        "value": "{positive-44}",
+        "type": "number"
+      },
+      "04-size": {
+        "value": "{positive-30}",
+        "type": "number"
+      },
+      "04-height": {
+        "value": "{positive-44}",
+        "type": "number"
+      },
+      "01-spacing": {
+        "value": "{positive-1}",
+        "type": "number"
+      },
+      "02-spacing": {
+        "value": "{positive-05}",
+        "type": "number"
+      },
+      "05-height": {
+        "value": "{positive-32}",
+        "type": "number"
+      },
+      "05-size": {
+        "value": "{positive-24}",
+        "type": "number"
+      },
+      "06-size": {
+        "value": "{positive-20}",
+        "type": "number"
+      },
+      "06-height": {
+        "value": "{positive-28}",
+        "type": "number"
+      }
+    },
+    "family-low": {
+      "value": "Unna",
+      "type": "text"
+    },
+    "sub": {
+      "style": {
+        "value": "Italic",
+        "type": "text"
+      },
+      "weight": {
+        "value": "Regular",
+        "type": "text"
+      },
+      "01-size": {
+        "value": "{positive-24}",
+        "type": "number"
+      },
+      "01-height": {
+        "value": "{positive-32}",
+        "type": "number"
+      },
+      "02-size": {
+        "value": "{positive-18}",
+        "type": "number"
+      },
+      "02-height": {
+        "value": "{positive-24}",
+        "type": "number"
+      }
+    },
+    "title": {
+      "weight": {
+        "value": "Medium",
+        "type": "text"
+      },
+      "01-size": {
+        "value": "{positive-24}",
+        "type": "number"
+      },
+      "01-height": {
+        "value": "{positive-32}",
+        "type": "number"
+      },
+      "03-size": {
+        "value": "{positive-18}",
+        "type": "number"
+      },
+      "03-height": {
+        "value": "{positive-24}",
+        "type": "number"
+      },
+      "02-size": {
+        "value": "{positive-20}",
+        "type": "number"
+      },
+      "02-height": {
+        "value": "{positive-28}",
+        "type": "number"
+      }
+    },
+    "body": {
+      "01-size": {
+        "value": "{positive-16}",
+        "type": "number"
+      },
+      "01-height": {
+        "value": "{positive-24}",
+        "type": "number"
+      },
+      "02-size": {
+        "value": "{positive-14}",
+        "type": "number"
+      },
+      "caption-size": {
+        "value": "{positive-12}",
+        "type": "number"
+      },
+      "02-height": {
+        "value": "{positive-20}",
+        "type": "number"
+      },
+      "caption-height": {
+        "value": "{positive-16}",
+        "type": "number"
+      },
+      "details-size": {
+        "value": "{positive-12}",
+        "type": "number"
+      },
+      "details-height": {
+        "value": "{positive-16}",
+        "type": "number"
+      },
+      "details-spacing": {
+        "value": "{positive-1}",
+        "type": "number"
+      }
+    },
+    "label": {
+      "01-size": {
+        "value": "{positive-16}",
+        "type": "number"
+      },
+      "01-height": {
+        "value": "{positive-24}",
+        "type": "number"
+      },
+      "02-size": {
+        "value": "{positive-14}",
+        "type": "number"
+      },
+      "02-height": {
+        "value": "{positive-20}",
+        "type": "number"
+      },
+      "03-size": {
+        "value": "{positive-12}",
+        "type": "number"
+      },
+      "03-height": {
+        "value": "{positive-16}",
+        "type": "number"
+      }
+    }
+  },
+  "grid": {
+    "breakpoint": {
+      "value": "desktop-md (1280-1439)",
+      "type": "text"
+    },
+    "margins": {
+      "value": "{positive-64}",
+      "type": "number"
+    },
+    "gutter": {
+      "value": "{positive-24}",
+      "type": "number"
+    },
+    "columns": {
+      "value": "{positive-12}",
+      "type": "number"
+    }
+  },
+  "space": {
+    "dynamic": {
+      "inline": {
+        "sm": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{positive-96}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-64}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-64}",
+          "type": "number"
+        }
+      },
+      "insetSquish": {
+        "lg-h": {
+          "value": "{positive-96}",
+          "type": "number"
+        },
+        "lg-v": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "md-h": {
+          "value": "{positive-48}",
+          "type": "number"
+        },
+        "md-v": {
+          "value": "{positive-32}",
+          "type": "number"
+        }
+      },
+      "insetStretch": {
+        "sm-h": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "sm-v": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "xl-h": {
+          "value": "{positive-48}",
+          "type": "number"
+        },
+        "xl-v": {
+          "value": "{positive-64}",
+          "type": "number"
+        },
+        "lg-v": {
+          "value": "{positive-48}",
+          "type": "number"
+        },
+        "lg-h": {
+          "value": "{positive-32}",
+          "type": "number"
+        }
+      },
+      "inset": {
+        "xl": {
+          "value": "{positive-64}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-48}",
+          "type": "number"
+        },
+        "sm": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "xs": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-48}",
+          "type": "number"
+        }
+      },
+      "stack": {
+        "xs": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-64}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-48}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-40}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{positive-96}",
+          "type": "number"
+        },
+        "sm": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "2xs": {
+          "value": "{positive-16}",
+          "type": "number"
+        }
+      },
+      "pinchVertical": {
+        "sm": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-40}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{positive-48}",
+          "type": "number"
+        },
+        "3xl": {
+          "value": "{positive-64}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-32}",
+          "type": "number"
+        }
+      }
+    },
+    "static": {
+      "inline": {
+        "2xl": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "2xs": {
+          "value": "{positive-2}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-12}",
+          "type": "number"
+        },
+        "sm": {
+          "value": "{positive-8}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "xs": {
+          "value": "{positive-4}",
+          "type": "number"
+        },
+        "3xl": {
+          "value": "{positive-40}",
+          "type": "number"
+        },
+        "4xl": {
+          "value": "{positive-48}",
+          "type": "number"
+        },
+        "5xl": {
+          "value": "{positive-56}",
+          "type": "number"
+        },
+        "6xl": {
+          "value": "{positive-64}",
+          "type": "number"
+        }
+      },
+      "insetSquish": {
+        "2xs-h": {
+          "value": "{positive-8}",
+          "type": "number"
+        },
+        "2xs-v": {
+          "value": "{positive-4}",
+          "type": "number"
+        },
+        "lg-h": {
+          "value": "{positive-20}",
+          "type": "number"
+        },
+        "lg-v": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "md-h": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "md-v": {
+          "value": "{positive-12}",
+          "type": "number"
+        },
+        "sm-h": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "sm-v": {
+          "value": "{positive-8}",
+          "type": "number"
+        },
+        "xl-h": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "xl-v": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "xs-h": {
+          "value": "{positive-12}",
+          "type": "number"
+        },
+        "xs-v": {
+          "value": "{positive-8}",
+          "type": "number"
+        }
+      },
+      "insetStretch": {
+        "lg-h": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "lg-v": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "md-h": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "md-v": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "sm-h": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "sm-v": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "xs-h": {
+          "value": "{positive-12}",
+          "type": "number"
+        },
+        "xs-v": {
+          "value": "{positive-16}",
+          "type": "number"
+        }
+      },
+      "inset": {
+        "2xl": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "2xs": {
+          "value": "{positive-4}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-20}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "sm": {
+          "value": "{positive-8}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "xs": {
+          "value": "{positive-6}",
+          "type": "number"
+        },
+        "min": {
+          "value": "{positive-2}",
+          "type": "number"
+        }
+      },
+      "pinchHorizontal": {
+        "2xs": {
+          "value": "{positive-4}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-20}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "sm": {
+          "value": "{positive-12}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "xs": {
+          "value": "{positive-8}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{positive-32}",
+          "type": "number"
+        }
+      },
+      "pinchVertical": {
+        "2xs": {
+          "value": "{positive-4}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "sm": {
+          "value": "{positive-12}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "xs": {
+          "value": "{positive-8}",
+          "type": "number"
+        },
+        "2xl": {
+          "value": "{positive-40}",
+          "type": "number"
+        }
+      },
+      "scale": {
+        "2xl": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "2xs": {
+          "value": "{positive-2}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "3xl": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-12}",
+          "type": "number"
+        },
+        "min": {
+          "value": "{positive-1}",
+          "type": "number"
+        },
+        "none": {
+          "value": "{positive-0}",
+          "type": "number"
+        },
+        "sm": {
+          "value": "{positive-8}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-20}",
+          "type": "number"
+        },
+        "xs": {
+          "value": "{positive-4}",
+          "type": "number"
+        },
+        "4xl": {
+          "value": "{positive-40}",
+          "type": "number"
+        },
+        "5xl": {
+          "value": "{positive-48}",
+          "type": "number"
+        },
+        "neg-3xl": {
+          "value": "{negative-32}",
+          "type": "number"
+        },
+        "neg-4xl": {
+          "value": "{negative-48}",
+          "type": "number"
+        },
+        "neg-xl": {
+          "value": "{negative-16}",
+          "type": "number"
+        },
+        "max": {
+          "value": "{positive-64}",
+          "type": "number"
+        },
+        "neg-5xl": {
+          "value": "{negative-88}",
+          "type": "number"
+        },
+        "neg-2xl": {
+          "value": "{negative-28}",
+          "type": "number"
+        }
+      },
+      "stack": {
+        "2xl": {
+          "value": "{positive-32}",
+          "type": "number"
+        },
+        "2xs": {
+          "value": "{positive-2}",
+          "type": "number"
+        },
+        "lg": {
+          "value": "{positive-16}",
+          "type": "number"
+        },
+        "md": {
+          "value": "{positive-12}",
+          "type": "number"
+        },
+        "sm": {
+          "value": "{positive-8}",
+          "type": "number"
+        },
+        "xl": {
+          "value": "{positive-24}",
+          "type": "number"
+        },
+        "xs": {
+          "value": "{positive-4}",
+          "type": "number"
+        },
+        "3xl": {
+          "value": "{positive-40}",
+          "type": "number"
+        }
+      }
+    },
+    "page": {
+      "withinPage": {
+        "value": "{positive-56}",
+        "type": "number"
+      },
+      "withinSection-md": {
+        "value": "{positive-32}",
+        "type": "number"
+      },
+      "beforeFooter": {
+        "value": "{positive-48}",
+        "type": "number"
+      },
+      "withinSection-lg": {
+        "value": "{positive-48}",
+        "type": "number"
+      },
+      "withinSection-sm": {
+        "value": "{positive-24}",
+        "type": "number"
+      },
+      "withinSection-xl": {
+        "value": "{positive-56}",
+        "type": "number"
+      },
+      "afterHeader": {
+        "value": "{positive-56}",
+        "type": "number"
+      }
+    }
+  },
+  "size": {
+    "fullWidth": {
+      "value": 1340,
+      "type": "number"
+    },
+    "fullGrid": {
+      "value": 1212,
+      "type": "number"
+    },
+    "icon": {
+      "2xs": {
+        "value": "{positive-16}",
+        "type": "number"
+      },
+      "sm": {
+        "value": "{positive-24}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{positive-32}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{positive-48}",
+        "type": "number"
+      },
+      "xl": {
+        "value": "{positive-56}",
+        "type": "number"
+      },
+      "2xl": {
+        "value": "{positive-64}",
+        "type": "number"
+      },
+      "max": {
+        "value": "{positive-72}",
+        "type": "number"
+      },
+      "xs": {
+        "value": "{positive-20}",
+        "type": "number"
+      }
+    },
+    "height": {
+      "value": 800,
+      "type": "number"
+    },
+    "2-cols": {
+      "value": 182,
+      "type": "number"
+    },
+    "3-cols": {
+      "value": 285,
+      "type": "number"
+    },
+    "4-cols": {
+      "value": 388,
+      "type": "number"
+    },
+    "5-cols": {
+      "value": 491,
+      "type": "number"
+    },
+    "halfGrid": {
+      "value": 594,
+      "type": "number"
+    },
+    "7-cols": {
+      "value": 697,
+      "type": "number"
+    },
+    "8-cols": {
+      "value": 800,
+      "type": "number"
+    },
+    "10-cols": {
+      "value": 1006,
+      "type": "number"
+    }
+  }
+}
