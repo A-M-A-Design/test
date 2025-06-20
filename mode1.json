@@ -1,0 +1,26 @@
+{
+  "sem": {
+    "border": {
+      "default": {
+        "value": "{prim.positive-1}",
+        "type": "border",
+        "description": "Standard border (1px). Usage: standard border."
+      },
+      "none": {
+        "value": "{prim.positive-0}",
+        "type": "border",
+        "description": "No border. Usage: elements without borders."
+      },
+      "strong": {
+        "value": "{prim.positive-2}",
+        "type": "border",
+        "description": "Bold border (2px). Usage: Emphasized borders, focused elements."
+      },
+      "current": {
+        "value": "{prim.positive-4}",
+        "type": "border",
+        "description": "Heavy border (4px). Usage:  current/selected states, strong emphasis."
+      }
+    }
+  }
+}

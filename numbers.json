@@ -1,0 +1,160 @@
+{
+  "prim": {
+    "positive-0": {
+      "value": "0",
+      "type": "dimension"
+    },
+    "positive-05": {
+      "value": "0.5",
+      "type": "dimension"
+    },
+    "positive-1": {
+      "value": "1",
+      "type": "dimension"
+    },
+    "positive-2": {
+      "value": "2",
+      "type": "dimension"
+    },
+    "positive-4": {
+      "value": "4",
+      "type": "dimension"
+    },
+    "positive-6": {
+      "value": "6",
+      "type": "dimension"
+    },
+    "positive-8": {
+      "value": "8",
+      "type": "dimension"
+    },
+    "positive-10": {
+      "value": "10",
+      "type": "dimension"
+    },
+    "positive-12": {
+      "value": "12",
+      "type": "dimension"
+    },
+    "positive-14": {
+      "value": "14",
+      "type": "dimension"
+    },
+    "positive-16": {
+      "value": "16",
+      "type": "dimension"
+    },
+    "positive-18": {
+      "value": "18",
+      "type": "dimension"
+    },
+    "positive-20": {
+      "value": "20",
+      "type": "dimension"
+    },
+    "positive-22": {
+      "value": "22",
+      "type": "dimension"
+    },
+    "positive-24": {
+      "value": "24",
+      "type": "dimension"
+    },
+    "positive-28": {
+      "value": "28",
+      "type": "dimension"
+    },
+    "positive-30": {
+      "value": "30",
+      "type": "dimension"
+    },
+    "positive-32": {
+      "value": "32",
+      "type": "dimension"
+    },
+    "positive-36": {
+      "value": "36",
+      "type": "dimension"
+    },
+    "positive-40": {
+      "value": "40",
+      "type": "dimension"
+    },
+    "positive-44": {
+      "value": "44",
+      "type": "dimension"
+    },
+    "positive-48": {
+      "value": "48",
+      "type": "dimension"
+    },
+    "positive-56": {
+      "value": "56",
+      "type": "dimension"
+    },
+    "positive-64": {
+      "value": "64",
+      "type": "dimension"
+    },
+    "positive-68": {
+      "value": "68",
+      "type": "dimension"
+    },
+    "positive-72": {
+      "value": "72",
+      "type": "dimension"
+    },
+    "positive-76": {
+      "value": "76",
+      "type": "dimension"
+    },
+    "positive-80": {
+      "value": "80",
+      "type": "dimension"
+    },
+    "positive-96": {
+      "value": "96",
+      "type": "dimension"
+    },
+    "negative-1": {
+      "value": "-1",
+      "type": "dimension"
+    },
+    "negative-2": {
+      "value": "-2",
+      "type": "dimension"
+    },
+    "negative-4": {
+      "value": "-4",
+      "type": "dimension"
+    },
+    "negative-16": {
+      "value": "-16",
+      "type": "dimension"
+    },
+    "negative-24": {
+      "value": "-24",
+      "type": "dimension"
+    },
+    "negative-28": {
+      "value": "-28",
+      "type": "dimension"
+    },
+    "negative-32": {
+      "value": "-32",
+      "type": "dimension"
+    },
+    "negative-48": {
+      "value": "-48",
+      "type": "dimension"
+    },
+    "negative-72": {
+      "value": "-72",
+      "type": "dimension"
+    },
+    "negative-88": {
+      "value": "-88",
+      "type": "dimension"
+    }
+  }
+}

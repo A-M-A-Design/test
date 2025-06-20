@@ -1,0 +1,1442 @@
+{
+  "sem": {
+    "brands": {
+      "gold": {
+        "value": "{prim.gold.61}",
+        "type": "color",
+        "description": "Gold tier color. Usage: gold membership styling."
+      },
+      "classic": {
+        "value": "{prim.stratos.2}",
+        "type": "color",
+        "description": "Classic tier color. Usage: entry-level membership styling."
+      },
+      "silver": {
+        "value": "{prim.silver.50}",
+        "type": "color",
+        "description": "Silver tier color. Silver membership styling."
+      },
+      "platinum": {
+        "value": "{prim.platinum.27}",
+        "type": "color",
+        "description": "Platinum tier color. Usage: \tplatinum membership styling."
+      },
+      "diamond": {
+        "value": "{prim.diamond.76}",
+        "type": "color",
+        "description": "Diamond tier color. Usage: diamond membership styling."
+      },
+      "hover": {
+        "classic": {
+          "value": "{prim.stratos.13}",
+          "type": "color",
+          "description": "Classic tier hover. Usage: hover state for classic membership elements;"
+        },
+        "silver": {
+          "value": "{prim.silver.41}",
+          "type": "color",
+          "description": "Silver tier hover. Usage: Hover state for silver membership elements."
+        },
+        "gold": {
+          "value": "{prim.gold.70}",
+          "type": "color",
+          "description": "Gold tier hover. Usage: hover state for gold membership elements."
+        },
+        "platinum": {
+          "value": "{prim.platinum.36}",
+          "type": "color",
+          "description": "Hover state for gold membership elements. Usage: hover state for gold membership elements."
+        },
+        "diamond": {
+          "value": "{prim.diamond.81}",
+          "type": "color",
+          "description": "Diamond tier hover. Usage: hover state for diamond membership elements."
+        },
+        "limitless": {
+          "value": "{prim.limitless.21}",
+          "type": "color",
+          "description": "Limitless tier hover. Usage: hover state for limitless membership elements."
+        },
+        "all-loyalty": {
+          "value": "{prim.stratos.24}",
+          "type": "color",
+          "description": "Universal loyalty hover. Usage: hover state for general loyalty elements."
+        },
+        "surface-container-low": {
+          "value": "{web.sem.light.hover.surface-container-low}",
+          "type": "color",
+          "description": "Low container hover. Usage: hover effect for subtle containers."
+        },
+        "surface-container-mid": {
+          "value": "{web.sem.light.hover.surface-container-mid}",
+          "type": "color",
+          "description": "Mid container hover. Usage: hover effect for standard containers."
+        },
+        "accent": {
+          "value": "{web.sem.light.hover.accent}",
+          "type": "color",
+          "description": "Accent hover state. Usage: hover effect for accent elements."
+        },
+        "offer": {
+          "value": "{web.sem.light.hover.offer}",
+          "type": "color",
+          "description": "Offer hover effect. Usage: hover state for promotional elements."
+        },
+        "inverse": {
+          "value": "{web.sem.light.hover.inverse}",
+          "type": "color",
+          "description": "Inverse hover. Usage: hover effect for inverse elements."
+        },
+        "primary": {
+          "value": "{web.sem.light.hover.primary}",
+          "type": "color",
+          "description": "Primary hover state. Usage: hover effect for primary elements."
+        },
+        "danger": {
+          "value": "{web.sem.light.hover.danger}",
+          "type": "color",
+          "description": "Danger hover effect. Usage: hover state for error/warning elements."
+        },
+        "outline-hi": {
+          "value": "{web.sem.light.hover.outline-hi}",
+          "type": "color",
+          "description": "Outline hover. Usage: hover effect for borders."
+        },
+        "link": {
+          "value": "{web.sem.light.hover.link}",
+          "type": "color",
+          "description": "Link hover effect. Usage: hover state for hyperlinks and text links."
+        },
+        "transparent": {
+          "value": "{web.sem.light.hover.transparent}",
+          "type": "color",
+          "description": "Transparent hover. Usage: subtle hover effect with transparency."
+        },
+        "surface-container-hi": {
+          "value": "{web.sem.light.hover.surface-container-hi}",
+          "type": "color",
+          "description": "High container hover. Usage: hover effect for prominent containers."
+        },
+        "secondary-container": {
+          "value": "{web.sem.light.hover.secondary-container}",
+          "type": "color",
+          "description": "Secondary container hover. Usage: hover effect for secondary containers."
+        },
+        "eco": {
+          "value": "{web.sem.light.hover.eco}",
+          "type": "color",
+          "description": "Eco hover effect. Usage: hover state for sustainability elements."
+        }
+      },
+      "pressed": {
+        "classic": {
+          "value": "{prim.stratos.24}",
+          "type": "color",
+          "description": "Classic tier pressed state. Active state for classic membership elements."
+        },
+        "silver": {
+          "value": "{prim.silver.31}",
+          "type": "color",
+          "description": "Silver tier pressed state. Usage: silver tier pressed state"
+        },
+        "gold": {
+          "value": "{prim.gold.78}",
+          "type": "color",
+          "description": "Gold tier pressed state. Usage: active state for gold membership elements."
+        },
+        "platinum": {
+          "value": "{prim.platinum.45}",
+          "type": "color",
+          "description": "Platinum tier pressed state. Usage: active state for platinum membership elements."
+        },
+        "diamond": {
+          "value": "{prim.diamond.87}",
+          "type": "color",
+          "description": "Diamond tier pressed state.  Usage: active state for diamond membership elements."
+        },
+        "limitless": {
+          "value": "{prim.limitless.31}",
+          "type": "color",
+          "description": "Limitless tier pressed state. Usage: limitless tier pressed state."
+        },
+        "all-loyalty": {
+          "value": "{prim.stratos.36}",
+          "type": "color",
+          "description": "Universal loyalty pressed state. Usage: active state for general loyalty program elements."
+        },
+        "surface-container-low": {
+          "value": "{web.sem.light.pressed.surface-container-low}",
+          "type": "color",
+          "description": "Low container pressed. Usage: active state for subtle container elements."
+        },
+        "surface-container-mid": {
+          "value": "{web.sem.light.pressed.surface-container-mid}",
+          "type": "color",
+          "description": "Mid container pressed. Usage: active state for standard container elements."
+        },
+        "accent": {
+          "value": "{web.sem.light.pressed.accent}",
+          "type": "color",
+          "description": "Accent pressed effect. Usage: active state for accent-colored interactive elements."
+        },
+        "offer": {
+          "value": "{web.sem.light.pressed.offer}",
+          "type": "color",
+          "description": "Offer pressed effect. Usage: active state for promotional elements."
+        },
+        "primary": {
+          "value": "{web.sem.light.pressed.primary}",
+          "type": "color",
+          "description": "Primary pressed effect. Usage: active state for primary buttons and key interactive elements."
+        },
+        "danger": {
+          "value": "{web.sem.light.pressed.danger}",
+          "type": "color",
+          "description": "Danger pressed effect. Usage: active state for error/warning elements."
+        },
+        "link": {
+          "value": "{web.sem.light.pressed.link}",
+          "type": "color",
+          "description": "Link pressed effect. Usage:  active state for hyperlinks and text links."
+        },
+        "transparent": {
+          "value": "{web.sem.light.pressed.transparent}",
+          "type": "color",
+          "description": "Transparent pressed effect. Usage: subtle active state with transparency for ghost elements."
+        },
+        "surface-container-hi": {
+          "value": "{web.sem.light.pressed.surface-container-hi}",
+          "type": "color",
+          "description": "High container pressed. Usage: active state for prominent container elements."
+        },
+        "secondary-container": {
+          "value": "{web.sem.light.pressed.secondary-container}",
+          "type": "color",
+          "description": "Secondary container pressed. Usage: active state for secondary containers and UI elements."
+        },
+        "eco": {
+          "value": "{web.sem.light.pressed.eco}",
+          "type": "color",
+          "description": "Eco pressed effect. Usage: active state for sustainability elements."
+        }
+      },
+      "limitless": {
+        "value": "{prim.limitless.0}",
+        "type": "color",
+        "description": "Limitless tier color. Usage: top-tier membership styling."
+      },
+      "all-loyalty": {
+        "value": "{prim.stratos.13}",
+        "type": "color",
+        "description": "Universal loyalty color. Usage: general loyalty program elements."
+      },
+      "shadow": {
+        "blur": {
+          "value": "{web.sem.light.shadow.blur}",
+          "type": "number",
+          "description": "More prominent shadow for higher elevation. Usage: Standard blur amount for shadows."
+        },
+        "blur-wide": {
+          "value": "{web.sem.light.shadow.blur-wide}",
+          "type": "number",
+          "description": "Wide shadow blur. Usage: extended blur for elevated elements."
+        },
+        "down": {
+          "value": "{web.sem.light.shadow.down}",
+          "type": "number",
+          "description": "Downward shadow offset. Usage: shadow below elements (positive Y value)."
+        },
+        "down-wide": {
+          "value": "{web.sem.light.shadow.down-wide}",
+          "type": "number",
+          "description": "Shadow below elements (positive Y value). Usage: extended shadow below important elements."
+        },
+        "up": {
+          "value": "{web.sem.light.shadow.up}",
+          "type": "number",
+          "description": "Upward shadow offset. Usage: shadow above elements (negative Y value)."
+        },
+        "default": {
+          "value": "{web.sem.light.shadow.default}",
+          "type": "color",
+          "description": "Standard shadow color. Usage: default shadow with medium opacity."
+        },
+        "strong": {
+          "value": "{web.sem.light.shadow.strong}",
+          "type": "color",
+          "description": "High-contrast shadow. Usage: more prominent shadow for higher elevation."
+        }
+      },
+      "backgroundBlur": {
+        "default": {
+          "value": "{web.sem.light.backgroundBlur.default}",
+          "type": "number",
+          "description": "Standard blur amount. Usage: Default backdrop blur effect."
+        }
+      },
+      "loyalty": {
+        "value": "{web.sem.light.loyalty}",
+        "type": "color",
+        "description": "Loyalty program color. Usage: Member-exclusive features and benefits."
+      },
+      "on-loyalty": {
+        "value": "{web.sem.light.on-loyalty}",
+        "type": "color",
+        "description": "Text on loyalty elements. Usage: content on primary loyalty elements."
+      },
+      "loyalty-container-hi": {
+        "value": "{web.sem.light.loyalty-container-hi}",
+        "type": "color",
+        "description": "Prominent loyalty container. Usage: High-emphasis loyalty UI elements."
+      },
+      "on-loyalty-container-low": {
+        "value": "{web.sem.light.on-loyalty-container-low}",
+        "type": "color",
+        "description": "Text on subtle loyalty container. Usage: content on low-emphasis loyalty elements."
+      },
+      "loyalty-container-low": {
+        "value": "{web.sem.light.loyalty-container-low}",
+        "type": "color",
+        "description": "Subtle loyalty container. Usage: Low-emphasis loyalty UI elements."
+      },
+      "surface": {
+        "value": "{web.sem.light.surface}",
+        "type": "color",
+        "description": "Brand surface background"
+      },
+      "primary-container-low": {
+        "value": "{web.sem.light.primary-container-low}",
+        "type": "color",
+        "description": "Low-emphasis primary container. Usage: Subtle container with brand color influence."
+      },
+      "danger-container-low": {
+        "value": "{web.sem.light.danger-container-low}",
+        "type": "color",
+        "description": "Low-emphasis danger container. Usage: subtle error indicators."
+      },
+      "success-container-low": {
+        "value": "{web.sem.light.success-container-low}",
+        "type": "color",
+        "description": "Low-emphasis success container. Usage: subtle success indicators."
+      },
+      "warning-container-low": {
+        "value": "{web.sem.light.warning-container-low}",
+        "type": "color",
+        "description": "Low-emphasis warning container. Usage: subtle warning indicators."
+      },
+      "accent-container-low": {
+        "value": "{web.sem.light.accent-container-low}",
+        "type": "color",
+        "description": "Subtle accent container. Usage: Low-emphasis accent UI elements."
+      },
+      "surface-container-low": {
+        "value": "{web.sem.light.surface-container-low}",
+        "type": "color",
+        "description": "Low-emphasis container surface. Usage: subtle container backgrounds."
+      },
+      "surface-container-mid": {
+        "value": "{web.sem.light.surface-container-mid}",
+        "type": "color",
+        "description": "Medium-emphasis container surface. Usage: standard container backgrounds."
+      },
+      "surface-container-hi": {
+        "value": "{web.sem.light.surface-container-hi}",
+        "type": "color",
+        "description": "High-emphasis container surface. Usage: prominent container backgrounds."
+      },
+      "primary": {
+        "value": "{web.sem.light.primary}",
+        "type": "color",
+        "description": "Primary action color. Buttons, key UI elements."
+      },
+      "on-primary": {
+        "value": "{web.sem.light.on-primary}",
+        "type": "color",
+        "description": "Text on primary color, e.g., content on primary buttons"
+      },
+      "primary-container-hi": {
+        "value": "{web.sem.light.primary-container-hi}",
+        "type": "color",
+        "description": "High-emphasis primary container. Usage: Prominent container with brand color influence."
+      },
+      "on-primary-container": {
+        "value": "{web.sem.light.on-primary-container}",
+        "type": "color",
+        "description": "Content on primary container (text, icon, ...)"
+      },
+      "on-surface-low": {
+        "value": "{web.sem.light.on-surface-low}",
+        "type": "color",
+        "description": "Low-emphasis surface content. Usage: Subtle text, secondary information."
+      },
+      "on-surface-mid": {
+        "value": "{web.sem.light.on-surface-mid}",
+        "type": "color",
+        "description": "Medium-emphasis surface content. Usage: standard text content."
+      },
+      "on-surface-hi": {
+        "value": "{web.sem.light.on-surface-hi}",
+        "type": "color",
+        "description": "High-emphasis surface content. Usage: Important text, headings."
+      },
+      "inverse": {
+        "value": "{web.sem.light.inverse}",
+        "type": "color",
+        "description": "Inverse background. Usage: contrasting background in current theme."
+      },
+      "on-inverse": {
+        "value": "{web.sem.light.on-inverse}",
+        "type": "color",
+        "description": "Text on inverse background. Usage: content on inverse surfaces."
+      },
+      "on-inverse-primary": {
+        "value": "{web.sem.light.on-inverse-primary}",
+        "type": "color",
+        "description": "Text on inverse primary\telements. Usage: content on inverted primary elements."
+      },
+      "danger": {
+        "value": "{web.sem.light.danger}",
+        "type": "color",
+        "description": "Danger color. Usage: error states, destructive actions."
+      },
+      "on-danger": {
+        "value": "{web.sem.light.on-danger}",
+        "type": "color",
+        "description": "Text on danger color. Usage: content on error elements."
+      },
+      "danger-container-hi": {
+        "value": "{web.sem.light.danger-container-hi}",
+        "type": "color",
+        "description": "High-emphasis danger container. Usage: prominent error indicators."
+      },
+      "on-danger-container-low": {
+        "value": "{web.sem.light.on-danger-container-low}",
+        "type": "color",
+        "description": "Text on subtle danger container. Usage: content on subtle error elements."
+      },
+      "success": {
+        "value": "{web.sem.light.success}",
+        "type": "color",
+        "description": "Success color. Usage: positive actions, completion states."
+      },
+      "on-success": {
+        "value": "{web.sem.light.on-success}",
+        "type": "color",
+        "description": "Content on success elements."
+      },
+      "success-container-hi": {
+        "value": "{web.sem.light.success-container-hi}",
+        "type": "color",
+        "description": "High-emphasis success container. Usage: prominent success indicators."
+      },
+      "on-success-container-low": {
+        "value": "{web.sem.light.on-success-container-low}",
+        "type": "color",
+        "description": "content on subtle success container. Usage: content on subtle success elements"
+      },
+      "warning": {
+        "value": "{web.sem.light.warning}",
+        "type": "color",
+        "description": "Warning color. Usage: cautionary states, alerts."
+      },
+      "on-warning": {
+        "value": "{web.sem.light.on-warning}",
+        "type": "color",
+        "description": "Content on warning elements."
+      },
+      "on-warning-container": {
+        "value": "{web.sem.light.on-warning-container}",
+        "type": "color",
+        "description": "Content on warning elements."
+      },
+      "accent": {
+        "value": "{web.sem.light.accent}",
+        "type": "color",
+        "description": "Accent color. Usage: secondary interactive elements."
+      },
+      "on-accent": {
+        "value": "{web.sem.light.on-accent}",
+        "type": "color",
+        "description": "Text on accent color. Usage: Content on accent elements."
+      },
+      "on-accent-container": {
+        "value": "{web.sem.light.on-accent-container}",
+        "type": "color",
+        "description": "Text on accent container. Usage: content on accent containers."
+      },
+      "focus": {
+        "value": "{web.sem.light.focus}",
+        "type": "color",
+        "description": "Focus indicator color. Usage: keyboard focus states."
+      },
+      "on-focus": {
+        "value": "{web.sem.light.on-focus}",
+        "type": "color",
+        "description": "Content on focus indicators."
+      },
+      "outline-low": {
+        "value": "{web.sem.light.outline-low}",
+        "type": "color",
+        "description": "Low-emphasis outline. Usage: subtle borders."
+      },
+      "outline-hi": {
+        "value": "{web.sem.light.outline-hi}",
+        "type": "color",
+        "description": "High-emphasis outline. Usage: prominent borders."
+      },
+      "outline-primary-hi": {
+        "value": "{web.sem.light.outline-primary-hi}",
+        "type": "color",
+        "description": "High-emphasis primary outline. Usage: strong primary element borders"
+      },
+      "link": {
+        "value": "{web.sem.light.link}",
+        "type": "color",
+        "description": "Link color. Usage: hyperlinks, interactive text."
+      },
+      "on-link": {
+        "value": "{web.sem.light.on-link}",
+        "type": "color",
+        "description": "Content on link elements."
+      },
+      "overlay-low": {
+        "value": "{web.sem.light.overlay-low}",
+        "type": "color",
+        "description": "Low-opacity overlay. Usage: subtle dimming overlays (30%)."
+      },
+      "overlay-mid": {
+        "value": "{web.sem.light.overlay-mid}",
+        "type": "color",
+        "description": "Medium-opacity overlay. Usage: standard dimming overlays (54%)."
+      },
+      "overlay-hi": {
+        "value": "{web.sem.light.overlay-hi}",
+        "type": "color",
+        "description": "High-opacity overlay. Usage: strong dimming overlays (70%)."
+      },
+      "overlay-max": {
+        "value": "{web.sem.light.overlay-max}",
+        "type": "color",
+        "description": "Maximum-opacity overlay. Usage: near-opaque overlays (90%)."
+      },
+      "offer": {
+        "value": "{web.sem.light.offer}",
+        "type": "color",
+        "description": "Offer color. Usage: special promotions, deals."
+      },
+      "on-offer": {
+        "value": "{web.sem.light.on-offer}",
+        "type": "color",
+        "description": "Content on promotional elements"
+      },
+      "offer-container-hi": {
+        "value": "{web.sem.light.offer-container-hi}",
+        "type": "color",
+        "description": "High-emphasis offer container. Usage: prominent promotional content."
+      },
+      "on-offer-container-low": {
+        "value": "{web.sem.light.on-offer-container-low}",
+        "type": "color",
+        "description": "Content on subtle promotional elements."
+      },
+      "artwork": {
+        "value": "{web.sem.light.artwork}",
+        "type": "color"
+      },
+      "gradient": {
+        "white-min": {
+          "value": "{web.sem.light.gradient.white-min}",
+          "type": "color",
+          "description": "Minimum white opacity. Usage: starting point for white fade gradients (transparent)."
+        },
+        "white-max": {
+          "value": "{web.sem.light.gradient.white-max}",
+          "type": "color",
+          "description": "Maximum white opacity. Usage: ending point for white fade gradients (solid white)."
+        },
+        "black-min": {
+          "value": "{web.sem.light.gradient.black-min}",
+          "type": "color",
+          "description": "Minimum black opacity. Usage: starting point for black fade gradients (transparent)."
+        },
+        "black-mid": {
+          "value": "{web.sem.light.gradient.black-mid}",
+          "type": "color",
+          "description": "Mid-point for black fade gradients (semi-transparent). Usage: mid-point for black fade gradients (semi-transparent)."
+        },
+        "black-hi": {
+          "value": "{web.sem.light.gradient.black-hi}",
+          "type": "color",
+          "description": "High black opacity. Usage: strong point for black fade gradients (mostly opaque)."
+        },
+        "black-max": {
+          "value": "{web.sem.light.gradient.black-max}",
+          "type": "color",
+          "description": "Maximum black opacity. Usage: ending point for black fade gradients (solid black)."
+        },
+        "secondary-end": {
+          "value": "{web.sem.light.gradient.secondary-end}",
+          "type": "color",
+          "description": "Secondary gradient end. Usage: ending color for secondary gradients."
+        },
+        "primary-hi-start": {
+          "value": "{web.sem.light.gradient.primary-hi-start}",
+          "type": "color",
+          "description": "High-emphasis primary gradient start. Usage: starting color for strong brand gradients."
+        },
+        "secondary-start": {
+          "value": "{web.sem.light.gradient.secondary-start}",
+          "type": "color",
+          "description": "Secondary gradient start. Usage: starting color for secondary gradients."
+        },
+        "primary-low-start": {
+          "value": "{web.sem.light.gradient.primary-low-start}",
+          "type": "color",
+          "description": "High-emphasis primary gradient end. Usage: Starting color for subtle brand gradients."
+        },
+        "primary-hi-end": {
+          "value": "{web.sem.light.gradient.primary-hi-end}",
+          "type": "color",
+          "description": "High-emphasis primary gradient end. Usage: high-emphasis primary gradient end."
+        },
+        "primary-low-end": {
+          "value": "{web.sem.light.gradient.primary-low-end}",
+          "type": "color",
+          "description": "Low-emphasis primary gradient end. Usage: ending color for subtle brand gradients."
+        }
+      },
+      "offer-container-low": {
+        "value": "{web.sem.light.offer-container-low}",
+        "type": "color",
+        "description": "Low-emphasis offer container. Usage: subtle promotional content."
+      },
+      "accent-container-hi": {
+        "value": "{web.sem.light.accent-container-hi}",
+        "type": "color",
+        "description": "High-emphasis accent container. Usage: Prominent accent UI elements."
+      },
+      "secondary-container": {
+        "value": "{web.sem.light.secondary-container}",
+        "type": "color",
+        "description": "Secondary container surface. Usage: Alternative container backgrounds."
+      },
+      "on-secondary-container": {
+        "value": "{web.sem.light.on-secondary-container}",
+        "type": "color",
+        "description": "Text on secondary containers. Usage: Text and icons on secondary containers."
+      },
+      "outline-secondary": {
+        "value": "{web.sem.light.outline-secondary}",
+        "type": "color",
+        "description": "Secondary outline. Usage: borders for secondary elements."
+      },
+      "outline-primary-low": {
+        "value": "{web.sem.light.outline-primary-hi}",
+        "type": "color",
+        "description": "Low-emphasis primary outline. Usage: Subtle primary element borders"
+      },
+      "on-eco": {
+        "value": "{web.sem.light.on-eco}",
+        "type": "color",
+        "description": "Content on sustainability elements."
+      },
+      "eco": {
+        "value": "{web.sem.light.eco}",
+        "type": "color",
+        "description": "Eco-friendly color."
+      },
+      "eco-container-hi": {
+        "value": "{web.sem.light.eco-container-hi}",
+        "type": "color",
+        "description": "High-emphasis eco container. Usage: prominent sustainability indicators."
+      },
+      "on-eco-container": {
+        "value": "{web.sem.light.on-eco-container}",
+        "type": "color",
+        "description": "Content on sustainability elements."
+      },
+      "eco-container-low": {
+        "value": "{web.sem.light.eco-container-low}",
+        "type": "color",
+        "description": "Low-emphasis eco container. Usage: subtle sustainability indicators."
+      },
+      "outline-mid": {
+        "value": "{web.sem.light.outline-mid}",
+        "type": "color",
+        "description": "Medium-emphasis outline. Usage: standard borders."
+      },
+      "on-secondary": {
+        "value": "{web.sem.light.on-secondary}",
+        "type": "color",
+        "description": "Text on secondary color. Usage: content on secondary-colored elements."
+      },
+      "on-loyalty-container-hi": {
+        "value": "{web.sem.light.on-loyalty-container-hi}",
+        "type": "color",
+        "description": "Text on prominent loyalty container. Usage: content on high-emphasis loyalty elements."
+      }
+    },
+    "brandName": {
+      "value": "{web.sem.brandName}",
+      "type": "text"
+    },
+    "crossBrands": {
+      "loyalty": {
+        "value": "{web.sem.light.loyalty}",
+        "type": "color",
+        "description": "Loyalty program color. Usage: Member-exclusive features and benefits."
+      },
+      "on-loyalty": {
+        "value": "{web.sem.light.on-loyalty}",
+        "type": "color",
+        "description": "Text on loyalty elements. Usage: content on primary loyalty elements."
+      },
+      "loyalty-container-hi": {
+        "value": "{web.sem.light.loyalty-container-hi}",
+        "type": "color",
+        "description": "Prominent loyalty container. Usage: High-emphasis loyalty UI elements."
+      },
+      "on-loyalty-container-low": {
+        "value": "{web.sem.light.on-loyalty-container-low}",
+        "type": "color",
+        "description": "Text on subtle loyalty container. Usage: content on low-emphasis loyalty elements."
+      },
+      "loyalty-container-low": {
+        "value": "{web.sem.light.loyalty-container-low}",
+        "type": "color",
+        "description": "Subtle loyalty container. Usage: Low-emphasis loyalty UI elements."
+      },
+      "surface": {
+        "value": "{web.sem.light.surface}",
+        "type": "color",
+        "description": "Brand surface background"
+      },
+      "primary-container-low": {
+        "value": "{web.sem.light.primary-container-low}",
+        "type": "color",
+        "description": "Low-emphasis primary container. Usage: Subtle container with brand color influence."
+      },
+      "danger-container-low": {
+        "value": "{web.sem.light.danger-container-low}",
+        "type": "color",
+        "description": "Low-emphasis danger container. Usage: subtle error indicators."
+      },
+      "success-container-low": {
+        "value": "{web.sem.light.success-container-low}",
+        "type": "color",
+        "description": "Low-emphasis success container. Usage: subtle success indicators."
+      },
+      "warning-container-low": {
+        "value": "{web.sem.light.warning-container-low}",
+        "type": "color",
+        "description": "Low-emphasis warning container. Usage: subtle warning indicators."
+      },
+      "accent-container-low": {
+        "value": "{web.sem.light.accent-container-low}",
+        "type": "color",
+        "description": "Subtle accent container. Usage: Low-emphasis accent UI elements."
+      },
+      "surface-container-low": {
+        "value": "{web.sem.light.surface-container-low}",
+        "type": "color",
+        "description": "Low-emphasis container surface. Usage: subtle container backgrounds."
+      },
+      "surface-container-mid": {
+        "value": "{web.sem.light.surface-container-mid}",
+        "type": "color",
+        "description": "Medium-emphasis container surface. Usage: standard container backgrounds."
+      },
+      "surface-container-hi": {
+        "value": "{web.sem.light.surface-container-hi}",
+        "type": "color",
+        "description": "High-emphasis container surface. Usage: prominent container backgrounds."
+      },
+      "primary": {
+        "value": "{web.sem.light.primary}",
+        "type": "color",
+        "description": "Primary action color. Buttons, key UI elements."
+      },
+      "on-primary": {
+        "value": "{web.sem.light.on-primary}",
+        "type": "color",
+        "description": "Text on primary color, e.g., content on primary buttons"
+      },
+      "primary-container-hi": {
+        "value": "{web.sem.light.primary-container-hi}",
+        "type": "color",
+        "description": "High-emphasis primary container. Usage: Prominent container with brand color influence."
+      },
+      "on-primary-container": {
+        "value": "{web.sem.light.on-primary-container}",
+        "type": "color",
+        "description": "Content on primary container (text, icon, ...)"
+      },
+      "on-surface-low": {
+        "value": "{web.sem.light.on-surface-low}",
+        "type": "color",
+        "description": "Low-emphasis surface content. Usage: Subtle text, secondary information."
+      },
+      "on-surface-mid": {
+        "value": "{web.sem.light.on-surface-mid}",
+        "type": "color",
+        "description": "Medium-emphasis surface content. Usage: standard text content."
+      },
+      "on-surface-hi": {
+        "value": "{web.sem.light.on-surface-hi}",
+        "type": "color",
+        "description": "High-emphasis surface content. Usage: Important text, headings."
+      },
+      "inverse": {
+        "value": "{web.sem.light.inverse}",
+        "type": "color",
+        "description": "Inverse background. Usage: contrasting background in current theme."
+      },
+      "on-inverse": {
+        "value": "{web.sem.light.on-inverse}",
+        "type": "color",
+        "description": "Text on inverse background. Usage: content on inverse surfaces."
+      },
+      "on-inverse-primary": {
+        "value": "{web.sem.light.on-inverse-primary}",
+        "type": "color",
+        "description": "Text on inverse primary\telements. Usage: content on inverted primary elements."
+      },
+      "danger": {
+        "value": "{web.sem.light.danger}",
+        "type": "color",
+        "description": "Danger color. Usage: error states, destructive actions."
+      },
+      "on-danger": {
+        "value": "{web.sem.light.on-danger}",
+        "type": "color",
+        "description": "Text on danger color. Usage: content on error elements."
+      },
+      "danger-container-hi": {
+        "value": "{web.sem.light.danger-container-hi}",
+        "type": "color",
+        "description": "High-emphasis danger container. Usage: prominent error indicators."
+      },
+      "on-danger-container-low": {
+        "value": "{web.sem.light.on-danger-container-low}",
+        "type": "color",
+        "description": "Text on subtle danger container. Usage: content on subtle error elements."
+      },
+      "success": {
+        "value": "{web.sem.light.success}",
+        "type": "color",
+        "description": "Success color. Usage: positive actions, completion states."
+      },
+      "on-success": {
+        "value": "{web.sem.light.on-success}",
+        "type": "color",
+        "description": "Content on success elements."
+      },
+      "success-container-hi": {
+        "value": "{web.sem.light.success-container-hi}",
+        "type": "color",
+        "description": "High-emphasis success container. Usage: prominent success indicators."
+      },
+      "on-success-container-low": {
+        "value": "{web.sem.light.on-success-container-low}",
+        "type": "color",
+        "description": "content on subtle success container. Usage: content on subtle success elements"
+      },
+      "warning": {
+        "value": "{web.sem.light.warning}",
+        "type": "color",
+        "description": "Warning color. Usage: cautionary states, alerts."
+      },
+      "on-warning": {
+        "value": "{web.sem.light.on-warning}",
+        "type": "color",
+        "description": "Content on warning elements."
+      },
+      "on-warning-container": {
+        "value": "{web.sem.light.on-warning-container}",
+        "type": "color",
+        "description": "Content on warning elements."
+      },
+      "accent": {
+        "value": "{web.sem.light.accent}",
+        "type": "color",
+        "description": "Accent color. Usage: secondary interactive elements."
+      },
+      "on-accent": {
+        "value": "{web.sem.light.on-accent}",
+        "type": "color",
+        "description": "Text on accent color. Usage: Content on accent elements."
+      },
+      "hover": {
+        "surface-container-low": {
+          "value": "{web.sem.light.hover.surface-container-low}",
+          "type": "color",
+          "description": "Low container hover. Usage: hover effect for subtle containers."
+        },
+        "surface-container-mid": {
+          "value": "{web.sem.light.hover.surface-container-mid}",
+          "type": "color",
+          "description": "Mid container hover. Usage: hover effect for standard containers."
+        },
+        "accent": {
+          "value": "{web.sem.light.hover.accent}",
+          "type": "color",
+          "description": "Accent hover state. Usage: hover effect for accent elements."
+        },
+        "offer": {
+          "value": "{web.sem.light.hover.offer}",
+          "type": "color",
+          "description": "Offer hover effect. Usage: hover state for promotional elements."
+        },
+        "inverse": {
+          "value": "{web.sem.light.hover.inverse}",
+          "type": "color",
+          "description": "Inverse hover. Usage: hover effect for inverse elements."
+        },
+        "primary": {
+          "value": "{web.sem.light.hover.primary}",
+          "type": "color",
+          "description": "Primary hover state. Usage: hover effect for primary elements."
+        },
+        "danger": {
+          "value": "{web.sem.light.hover.danger}",
+          "type": "color",
+          "description": "Danger hover effect. Usage: hover state for error/warning elements."
+        },
+        "outline-hi": {
+          "value": "{web.sem.light.hover.outline-hi}",
+          "type": "color",
+          "description": "Outline hover. Usage: hover effect for borders."
+        },
+        "link": {
+          "value": "{web.sem.light.hover.link}",
+          "type": "color",
+          "description": "Link hover effect. Usage: hover state for hyperlinks and text links."
+        },
+        "transparent": {
+          "value": "{web.sem.light.hover.transparent}",
+          "type": "color",
+          "description": "Transparent hover. Usage: subtle hover effect with transparency."
+        },
+        "surface-container-hi": {
+          "value": "{web.sem.light.hover.surface-container-hi}",
+          "type": "color",
+          "description": "High container hover. Usage: hover effect for prominent containers."
+        },
+        "secondary-container": {
+          "value": "{web.sem.light.hover.secondary-container}",
+          "type": "color",
+          "description": "Secondary container hover. Usage: hover effect for secondary containers."
+        },
+        "eco": {
+          "value": "{web.sem.light.hover.eco}",
+          "type": "color",
+          "description": "Eco hover effect. Usage: hover state for sustainability elements."
+        },
+        "classic": {
+          "value": "{prim.stratos.13}",
+          "type": "color",
+          "description": "Classic tier hover. Usage: hover state for classic membership elements;"
+        },
+        "silver": {
+          "value": "{prim.silver.41}",
+          "type": "color",
+          "description": "Silver tier hover. Usage: Hover state for silver membership elements."
+        },
+        "gold": {
+          "value": "{prim.gold.70}",
+          "type": "color",
+          "description": "Gold tier hover. Usage: hover state for gold membership elements."
+        },
+        "platinum": {
+          "value": "{prim.platinum.36}",
+          "type": "color",
+          "description": "Hover state for gold membership elements. Usage: hover state for gold membership elements."
+        },
+        "diamond": {
+          "value": "{prim.diamond.81}",
+          "type": "color",
+          "description": "Diamond tier hover. Usage: hover state for diamond membership elements."
+        },
+        "limitless": {
+          "value": "{prim.limitless.21}",
+          "type": "color",
+          "description": "Limitless tier hover. Usage: hover state for limitless membership elements."
+        },
+        "all-loyalty": {
+          "value": "{prim.stratos.24}",
+          "type": "color",
+          "description": "Universal loyalty hover. Usage: hover state for general loyalty elements."
+        }
+      },
+      "shadow": {
+        "default": {
+          "value": "{web.sem.light.shadow.default}",
+          "type": "color",
+          "description": "Standard shadow color. Usage: default shadow with medium opacity."
+        },
+        "strong": {
+          "value": "{web.sem.light.shadow.strong}",
+          "type": "color",
+          "description": "High-contrast shadow. Usage: more prominent shadow for higher elevation."
+        }
+      },
+      "on-accent-container": {
+        "value": "{web.sem.light.on-accent-container}",
+        "type": "color",
+        "description": "Text on accent container. Usage: content on accent containers."
+      },
+      "focus": {
+        "value": "{web.sem.light.focus}",
+        "type": "color",
+        "description": "Focus indicator color. Usage: keyboard focus states."
+      },
+      "on-focus": {
+        "value": "{web.sem.light.on-focus}",
+        "type": "color",
+        "description": "Content on focus indicators."
+      },
+      "outline-low": {
+        "value": "{web.sem.light.outline-low}",
+        "type": "color",
+        "description": "Low-emphasis outline. Usage: subtle borders."
+      },
+      "outline-hi": {
+        "value": "{web.sem.light.outline-hi}",
+        "type": "color",
+        "description": "High-emphasis outline. Usage: prominent borders."
+      },
+      "outline-primary-hi": {
+        "value": "{web.sem.light.outline-primary-hi}",
+        "type": "color",
+        "description": "High-emphasis primary outline. Usage: strong primary element borders"
+      },
+      "link": {
+        "value": "{web.sem.light.link}",
+        "type": "color",
+        "description": "Link color. Usage: hyperlinks, interactive text."
+      },
+      "on-link": {
+        "value": "{web.sem.light.on-link}",
+        "type": "color",
+        "description": "Content on link elements."
+      },
+      "overlay-low": {
+        "value": "{web.sem.light.overlay-low}",
+        "type": "color",
+        "description": "Low-opacity overlay. Usage: subtle dimming overlays (30%)."
+      },
+      "overlay-mid": {
+        "value": "{web.sem.light.overlay-mid}",
+        "type": "color",
+        "description": "Medium-opacity overlay. Usage: standard dimming overlays (54%)."
+      },
+      "overlay-hi": {
+        "value": "{web.sem.light.overlay-hi}",
+        "type": "color",
+        "description": "High-opacity overlay. Usage: strong dimming overlays (70%)."
+      },
+      "overlay-max": {
+        "value": "{web.sem.light.overlay-max}",
+        "type": "color",
+        "description": "Maximum-opacity overlay. Usage: near-opaque overlays (90%)."
+      },
+      "offer": {
+        "value": "{web.sem.light.offer}",
+        "type": "color",
+        "description": "Offer color. Usage: special promotions, deals."
+      },
+      "on-offer": {
+        "value": "{web.sem.light.on-offer}",
+        "type": "color",
+        "description": "Content on promotional elements"
+      },
+      "offer-container-hi": {
+        "value": "{web.sem.light.offer-container-hi}",
+        "type": "color",
+        "description": "High-emphasis offer container. Usage: prominent promotional content."
+      },
+      "on-offer-container-low": {
+        "value": "{web.sem.light.on-offer-container-low}",
+        "type": "color",
+        "description": "Content on subtle promotional elements."
+      },
+      "artwork": {
+        "value": "{web.sem.light.artwork}",
+        "type": "color"
+      },
+      "pressed": {
+        "surface-container-low": {
+          "value": "{web.sem.light.pressed.surface-container-low}",
+          "type": "color",
+          "description": "Low container pressed. Usage: active state for subtle container elements."
+        },
+        "surface-container-mid": {
+          "value": "{web.sem.light.pressed.surface-container-mid}",
+          "type": "color",
+          "description": "Mid container pressed. Usage: active state for standard container elements."
+        },
+        "accent": {
+          "value": "{web.sem.light.pressed.accent}",
+          "type": "color",
+          "description": "Accent pressed effect. Usage: active state for accent-colored interactive elements."
+        },
+        "offer": {
+          "value": "{web.sem.light.pressed.offer}",
+          "type": "color",
+          "description": "Offer pressed effect. Usage: active state for promotional elements."
+        },
+        "primary": {
+          "value": "{web.sem.light.pressed.primary}",
+          "type": "color",
+          "description": "Primary pressed effect. Usage: active state for primary buttons and key interactive elements."
+        },
+        "danger": {
+          "value": "{web.sem.light.pressed.danger}",
+          "type": "color",
+          "description": "Danger pressed effect. Usage: active state for error/warning elements."
+        },
+        "link": {
+          "value": "{web.sem.light.pressed.link}",
+          "type": "color",
+          "description": "Link pressed effect. Usage:  active state for hyperlinks and text links."
+        },
+        "transparent": {
+          "value": "{web.sem.light.pressed.transparent}",
+          "type": "color",
+          "description": "Transparent pressed effect. Usage: subtle active state with transparency for ghost elements."
+        },
+        "surface-container-hi": {
+          "value": "{web.sem.light.pressed.surface-container-hi}",
+          "type": "color",
+          "description": "High container pressed. Usage: active state for prominent container elements."
+        },
+        "secondary-container": {
+          "value": "{web.sem.light.pressed.secondary-container}",
+          "type": "color",
+          "description": "Secondary container pressed. Usage: active state for secondary containers and UI elements."
+        },
+        "eco": {
+          "value": "{web.sem.light.pressed.eco}",
+          "type": "color",
+          "description": "Eco pressed effect. Usage: active state for sustainability elements."
+        },
+        "classic": {
+          "value": "{prim.stratos.24}",
+          "type": "color",
+          "description": "Classic tier pressed state. Active state for classic membership elements."
+        },
+        "silver": {
+          "value": "{prim.silver.31}",
+          "type": "color",
+          "description": "Silver tier pressed state. Usage: silver tier pressed state"
+        },
+        "gold": {
+          "value": "{prim.gold.78}",
+          "type": "color",
+          "description": "Gold tier pressed state. Usage: active state for gold membership elements."
+        },
+        "platinum": {
+          "value": "{prim.platinum.45}",
+          "type": "color",
+          "description": "Platinum tier pressed state. Usage: active state for platinum membership elements."
+        },
+        "diamond": {
+          "value": "{prim.diamond.87}",
+          "type": "color",
+          "description": "Diamond tier pressed state.  Usage: active state for diamond membership elements."
+        },
+        "limitless": {
+          "value": "{prim.limitless.31}",
+          "type": "color",
+          "description": "Limitless tier pressed state. Usage: limitless tier pressed state."
+        },
+        "all-loyalty": {
+          "value": "{prim.stratos.36}",
+          "type": "color",
+          "description": "Universal loyalty pressed state. Usage: active state for general loyalty program elements."
+        }
+      },
+      "gradient": {
+        "white-min": {
+          "value": "{web.sem.light.gradient.white-min}",
+          "type": "color",
+          "description": "Minimum white opacity. Usage: starting point for white fade gradients (transparent)."
+        },
+        "white-max": {
+          "value": "{web.sem.light.gradient.white-max}",
+          "type": "color",
+          "description": "Maximum white opacity. Usage: ending point for white fade gradients (solid white)."
+        },
+        "black-min": {
+          "value": "{web.sem.light.gradient.black-min}",
+          "type": "color",
+          "description": "Minimum black opacity. Usage: starting point for black fade gradients (transparent)."
+        },
+        "black-mid": {
+          "value": "{web.sem.light.gradient.black-mid}",
+          "type": "color",
+          "description": "Mid-point for black fade gradients (semi-transparent). Usage: mid-point for black fade gradients (semi-transparent)."
+        },
+        "black-hi": {
+          "value": "{web.sem.light.gradient.black-hi}",
+          "type": "color",
+          "description": "High black opacity. Usage: strong point for black fade gradients (mostly opaque)."
+        },
+        "black-max": {
+          "value": "{web.sem.light.gradient.black-max}",
+          "type": "color",
+          "description": "Maximum black opacity. Usage: ending point for black fade gradients (solid black)."
+        },
+        "secondary-end": {
+          "value": "{web.sem.light.gradient.secondary-end}",
+          "type": "color",
+          "description": "Secondary gradient end. Usage: ending color for secondary gradients."
+        },
+        "primary-hi-start": {
+          "value": "{web.sem.light.gradient.primary-hi-start}",
+          "type": "color",
+          "description": "High-emphasis primary gradient start. Usage: starting color for strong brand gradients."
+        },
+        "secondary-start": {
+          "value": "{web.sem.light.gradient.secondary-start}",
+          "type": "color",
+          "description": "Secondary gradient start. Usage: starting color for secondary gradients."
+        },
+        "primary-low-start": {
+          "value": "{web.sem.light.gradient.primary-low-start}",
+          "type": "color",
+          "description": "High-emphasis primary gradient end. Usage: Starting color for subtle brand gradients."
+        },
+        "primary-hi-end": {
+          "value": "{web.sem.light.gradient.primary-hi-end}",
+          "type": "color",
+          "description": "High-emphasis primary gradient end. Usage: high-emphasis primary gradient end."
+        },
+        "primary-low-end": {
+          "value": "{web.sem.light.gradient.primary-low-end}",
+          "type": "color",
+          "description": "Low-emphasis primary gradient end. Usage: ending color for subtle brand gradients."
+        }
+      },
+      "offer-container-low": {
+        "value": "{web.sem.light.offer-container-low}",
+        "type": "color",
+        "description": "Low-emphasis offer container. Usage: subtle promotional content."
+      },
+      "accent-container-hi": {
+        "value": "{web.sem.light.accent-container-hi}",
+        "type": "color",
+        "description": "High-emphasis accent container. Usage: Prominent accent UI elements."
+      },
+      "secondary-container": {
+        "value": "{web.sem.light.secondary-container}",
+        "type": "color",
+        "description": "Secondary container surface. Usage: Alternative container backgrounds."
+      },
+      "on-secondary-container": {
+        "value": "{web.sem.light.on-secondary-container}",
+        "type": "color",
+        "description": "Text on secondary containers. Usage: Text and icons on secondary containers."
+      },
+      "outline-secondary": {
+        "value": "{web.sem.light.outline-secondary}",
+        "type": "color",
+        "description": "Secondary outline. Usage: borders for secondary elements."
+      },
+      "outline-primary-low": {
+        "value": "{web.sem.light.outline-primary-hi}",
+        "type": "color",
+        "description": "Low-emphasis primary outline. Usage: Subtle primary element borders"
+      },
+      "on-eco": {
+        "value": "{web.sem.light.on-eco}",
+        "type": "color",
+        "description": "Content on sustainability elements."
+      },
+      "eco": {
+        "value": "{web.sem.light.eco}",
+        "type": "color",
+        "description": "Eco-friendly color."
+      },
+      "eco-container-hi": {
+        "value": "{web.sem.light.eco-container-hi}",
+        "type": "color",
+        "description": "High-emphasis eco container. Usage: prominent sustainability indicators."
+      },
+      "on-eco-container": {
+        "value": "{web.sem.light.on-eco-container}",
+        "type": "color",
+        "description": "Content on sustainability elements."
+      },
+      "eco-container-low": {
+        "value": "{web.sem.light.eco-container-low}",
+        "type": "color",
+        "description": "Low-emphasis eco container. Usage: subtle sustainability indicators."
+      },
+      "outline-mid": {
+        "value": "{web.sem.light.outline-mid}",
+        "type": "color",
+        "description": "Medium-emphasis outline. Usage: standard borders."
+      },
+      "on-secondary": {
+        "value": "{web.sem.light.on-secondary}",
+        "type": "color",
+        "description": "Text on secondary color. Usage: content on secondary-colored elements."
+      },
+      "on-loyalty-container-hi": {
+        "value": "{web.sem.light.on-loyalty-container-hi}",
+        "type": "color",
+        "description": "Text on prominent loyalty container. Usage: content on high-emphasis loyalty elements."
+      },
+      "gold": {
+        "value": "{prim.gold.61}",
+        "type": "color",
+        "description": "Gold tier color. Usage: gold membership styling."
+      },
+      "classic": {
+        "value": "{prim.stratos.2}",
+        "type": "color",
+        "description": "Classic tier color. Usage: entry-level membership styling."
+      },
+      "silver": {
+        "value": "{prim.silver.50}",
+        "type": "color",
+        "description": "Silver tier color. Silver membership styling."
+      },
+      "platinum": {
+        "value": "{prim.platinum.27}",
+        "type": "color",
+        "description": "Platinum tier color. Usage: \tplatinum membership styling."
+      },
+      "diamond": {
+        "value": "{prim.diamond.76}",
+        "type": "color",
+        "description": "Diamond tier color. Usage: diamond membership styling."
+      },
+      "limitless": {
+        "value": "{prim.limitless.0}",
+        "type": "color",
+        "description": "Limitless tier color. Usage: top-tier membership styling."
+      },
+      "all-loyalty": {
+        "value": "{prim.stratos.13}",
+        "type": "color",
+        "description": "Universal loyalty color. Usage: general loyalty program elements."
+      }
+    },
+    "modeName": {
+      "value": "light",
+      "type": "text"
+    }
+  },
+  "comp": {
+    "btn": {
+      "primary": {
+        "hover": {
+          "fg-color": {
+            "value": "{web.comp.btn.primary.light.hover.fg-color}",
+            "type": "color",
+            "description": "Hover foreground color. Usage: Text and icon color when hovering over primary buttons."
+          },
+          "border-color": {
+            "value": "{web.comp.btn.primary.light.hover.border-color}",
+            "type": "color",
+            "description": "Hover border color. Usage: outline color when hovering over primary buttons."
+          },
+          "bg-color": {
+            "value": "{web.comp.btn.primary.light.hover.bg-color}",
+            "type": "color",
+            "description": "Hover background color. Usage: fill color when hovering over primary buttons."
+          }
+        },
+        "default": {
+          "bg-color": {
+            "value": "{web.comp.btn.primary.light.default.bg-color}",
+            "type": "color",
+            "description": "Background color. Usage: Fill color for primary buttons."
+          },
+          "border-color": {
+            "value": "{web.comp.btn.primary.light.default.border-color}",
+            "type": "color",
+            "description": "Border color. Usage: outline color for primary buttons."
+          },
+          "fg-color": {
+            "value": "{web.comp.btn.primary.light.default.fg-color}",
+            "type": "color",
+            "description": "Foreground color. usage: Text and icon color for primary buttons."
+          }
+        },
+        "pressed": {
+          "fg-color": {
+            "value": "{web.comp.btn.primary.light.pressed.fg-color}",
+            "type": "color",
+            "description": "Pressed foreground color. Usage: text and icon color when pressing primary buttons."
+          },
+          "bg-color": {
+            "value": "{web.comp.btn.primary.light.pressed.bg-color}",
+            "type": "color",
+            "description": "Pressed background color. Usage: fill color when pressing primary buttons."
+          },
+          "border-color": {
+            "value": "{web.comp.btn.primary.light.pressed.border-color}",
+            "type": "color",
+            "description": "Pressed border color. Usage: outline color when pressing primary buttons."
+          }
+        }
+      },
+      "secondary": {
+        "hover": {
+          "fg-color": {
+            "value": "{web.comp.btn.secondary.light.hover.fg-color}",
+            "type": "color",
+            "description": "Hover foreground color. Usage: text and icon color when hovering over secondary buttons."
+          },
+          "bg-color": {
+            "value": "{web.comp.btn.secondary.light.hover.bg-color}",
+            "type": "color",
+            "description": "Hover background color. Usage: fill color when hovering over secondary buttons."
+          },
+          "border-color": {
+            "value": "{web.comp.btn.secondary.light.hover.border-color}",
+            "type": "color",
+            "description": "Hover border color. Usage: outline color when hovering over secondary buttons."
+          }
+        },
+        "default": {
+          "bg-color": {
+            "value": "{web.comp.btn.secondary.light.default.bg-color}",
+            "type": "color",
+            "description": "Background color. Usage: fill color for secondary buttons."
+          },
+          "fg-color": {
+            "value": "{web.comp.btn.secondary.light.default.fg-color}",
+            "type": "color",
+            "description": "Foreground color. Usage: text and icon color for secondary buttons."
+          },
+          "border-color": {
+            "value": "{web.comp.btn.secondary.light.default.border-color}",
+            "type": "color",
+            "description": "Border color. Usage: outline color for secondary buttons."
+          }
+        },
+        "pressed": {
+          "border-color": {
+            "value": "{web.comp.btn.secondary.light.pressed.border-color}",
+            "type": "color",
+            "description": "Pressed border color. Usage: outline color when pressing secondary buttons."
+          },
+          "bg-color": {
+            "value": "{web.comp.btn.secondary.light.pressed.bg-color}",
+            "type": "color",
+            "description": "Pressed background color. Usage: fill color when pressing secondary buttons."
+          },
+          "fg-color": {
+            "value": "{web.comp.btn.secondary.light.pressed.fg-color}",
+            "type": "color",
+            "description": "Pressed foreground color. Usage: text and icon color when pressing secondary buttons."
+          }
+        }
+      }
+    }
+  }
+}

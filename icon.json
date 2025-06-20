@@ -1,0 +1,425 @@
+{
+  "prim": {
+    "fontFamily": {
+      "adsIcon": {
+        "value": "ads-icon-font",
+        "type": "fontFamilies",
+        "description": "accor icon font family"
+      }
+    },
+    "fontSize": {
+      "adsIcon": {
+        "s": {
+          "value": "16",
+          "type": "fontSizes"
+        },
+        "m": {
+          "value": "18",
+          "type": "fontSizes"
+        },
+        "l": {
+          "value": "24",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "32",
+          "type": "fontSizes"
+        },
+        "2xl": {
+          "value": "64",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "typography": {
+      "icon": {
+        "s": {
+          "value": {
+            "fontFamily": "{prim.fontFamily.adsIcon}",
+            "fontSize": "{prim.fontSize.adsIcon.s}"
+          },
+          "type": "typography"
+        },
+        "m": {
+          "value": {
+            "fontFamily": "{prim.fontFamily.adsIcon}",
+            "fontSize": "{prim.fontSize.adsIcon.m}"
+          },
+          "type": "typography"
+        },
+        "l": {
+          "value": {
+            "fontFamily": "{prim.fontFamily.adsIcon}",
+            "fontSize": "{prim.fontSize.adsIcon.l}"
+          },
+          "type": "typography"
+        },
+        "xl": {
+          "value": {
+            "fontFamily": "{prim.fontFamily.adsIcon}",
+            "fontSize": "{prim.fontSize.adsIcon.xl}"
+          },
+          "type": "typography"
+        },
+        "2xl": {
+          "value": {
+            "fontFamily": "{prim.fontFamily.adsIcon}",
+            "fontSize": "{prim.fontSize.adsIcon.2xl}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "adsIcon": {
+      "accorAll": {
+        "value": "icon-accor-all",
+        "type": "icon"
+      },
+      "accorPlus": {
+        "value": "icon-accor-plus",
+        "type": "icon"
+      },
+      "accor": {
+        "value": "icon-accor",
+        "type": "icon"
+      },
+      "account": {
+        "value": "icon-acount",
+        "type": "icon"
+      },
+      "accountConnected": {
+        "value": "icon-account-connected",
+        "type": "icon"
+      },
+      "add": {
+        "value": "icon-add",
+        "type": "icon"
+      },
+      "arrowDown": {
+        "value": "icon-arrow-down",
+        "type": "icon"
+      },
+      "arrowLeft": {
+        "value": "icon-arrow-left",
+        "type": "icon"
+      },
+      "arrowRight": {
+        "value": "icon-arrow-right",
+        "type": "icon"
+      },
+      "arrowUp": {
+        "value": "icon-arrow-up",
+        "type": "icon"
+      },
+      "avatar": {
+        "value": "icon-avatar",
+        "type": "icon"
+      },
+      "bed": {
+        "value": "icon-bed",
+        "type": "icon"
+      },
+      "bulb": {
+        "value": "icon-bulb",
+        "type": "icon"
+      },
+      "calendar": {
+        "value": "icon-calendar",
+        "type": "icon"
+      },
+      "car": {
+        "value": "icon-car",
+        "type": "icon"
+      },
+      "check": {
+        "value": "icon-check",
+        "type": "icon"
+      },
+      "checkbox": {
+        "value": "icon-checkbox",
+        "type": "icon"
+      },
+      "chevronDown": {
+        "value": "icon-chevron-down",
+        "type": "icon"
+      },
+      "chevronLeft": {
+        "value": "icon-chevron-left",
+        "type": "icon"
+      },
+      "chevronRight": {
+        "value": "icon-chevron-right",
+        "type": "icon"
+      },
+      "chevronUp": {
+        "value": "icon-chevron-up",
+        "type": "icon"
+      },
+      "clear": {
+        "value": "icon-clear",
+        "type": "icon"
+      },
+      "close": {
+        "value": "icon-close",
+        "type": "icon"
+      },
+      "copyFilled": {
+        "value": "icon-copy-filled",
+        "type": "icon"
+      },
+      "danger": {
+        "value": "icon-danger",
+        "type": "icon"
+      },
+      "earnPoints": {
+        "value": "icon-earn-points",
+        "type": "icon"
+      },
+      "ecoCertification": {
+        "value": "icon-eco-certification",
+        "type": "icon"
+      },
+      "edit": {
+        "value": "icon-edit",
+        "type": "icon"
+      },
+      "error": {
+        "value": "icon-error",
+        "type": "icon"
+      },
+      "external": {
+        "value": "icon-external",
+        "type": "icon"
+      },
+      "eyeSlash": {
+        "value": "icon-eye-slash",
+        "type": "icon"
+      },
+      "eye": {
+        "value": "icon-eye",
+        "type": "icon"
+      },
+      "facebook": {
+        "value": "icon-facebook",
+        "type": "icon"
+      },
+      "favoriteFull": {
+        "value": "icon-favorite-full",
+        "type": "icon"
+      },
+      "favorite": {
+        "value": "icon-favorite",
+        "type": "icon"
+      },
+      "filter": {
+        "value": "icon-filter",
+        "type": "icon"
+      },
+      "gallery": {
+        "value": "icon-gallery",
+        "type": "icon"
+      },
+      "halfMoon": {
+        "value": "icon-half-moon",
+        "type": "icon"
+      },
+      "help": {
+        "value": "icon-help",
+        "type": "icon"
+      },
+      "info": {
+        "value": "icon-info",
+        "type": "icon"
+      },
+      "instagram": {
+        "value": "icon-instagram",
+        "type": "icon"
+      },
+      "list": {
+        "value": "icon-list",
+        "type": "icon"
+      },
+      "listing": {
+        "value": "icon-listing",
+        "type": "icon",
+        "description": ""
+      },
+      "loading": {
+        "value": "icon-loading",
+        "type": "icon"
+      },
+      "lockdown": {
+        "value": "icon-lockdown",
+        "type": "icon"
+      },
+      "logoAllWithCard": {
+        "value": "icon-logo-all-with-card",
+        "type": "icon"
+      },
+      "logoAll": {
+        "value": "icon-logo-all",
+        "type": "icon"
+      },
+      "logoBackground": {
+        "value": "icon-logo-background",
+        "type": "icon"
+      },
+      "mail": {
+        "value": "icon-mail",
+        "type": "icon"
+      },
+      "map": {
+        "value": "icon-map",
+        "type": "icon"
+      },
+      "menuDots": {
+        "value": "icon-menu-dots",
+        "type": "icon"
+      },
+      "minus": {
+        "value": "icon-minus",
+        "type": "icon"
+      },
+      "occupantAdult": {
+        "value": "icon-occupant-adult",
+        "type": "icon"
+      },
+      "occupantChild": {
+        "value": "icon-occupant-child",
+        "type": "icon"
+      },
+      "padlock": {
+        "value": "icon-padlock",
+        "type": "icon"
+      },
+      "phone": {
+        "value": "icon-phone",
+        "type": "icon"
+      },
+      "pin": {
+        "value": "icon-pin",
+        "type": "icon"
+      },
+      "pinterest": {
+        "value": "icon-pinterest",
+        "type": "icon"
+      },
+      "plane": {
+        "value": "icon-plane",
+        "type": "icon"
+      },
+      "play": {
+        "value": "icon-play",
+        "type": "icon"
+      },
+      "print": {
+        "value": "icon-print",
+        "type": "icon"
+      },
+      "search": {
+        "value": "icon-search",
+        "type": "icon"
+      },
+      "shopping": {
+        "value": "icon-shopping",
+        "type": "icon"
+      },
+      "sort": {
+        "value": "icon-sort",
+        "type": "icon"
+      },
+      "space": {
+        "value": "icon-space",
+        "type": "icon"
+      },
+      "spinner": {
+        "value": "icon-spinner",
+        "type": "icon"
+      },
+      "starFilled": {
+        "value": "icon-star-filled",
+        "type": "icon"
+      },
+      "starOutlined": {
+        "value": "icon-star-outlined",
+        "type": "icon"
+      },
+      "stars0": {
+        "value": "icon-stars0",
+        "type": "icon"
+      },
+      "stars1": {
+        "value": "icon-stars1",
+        "type": "icon"
+      },
+      "stars2": {
+        "value": "icon-stars2",
+        "type": "icon"
+      },
+      "stars3": {
+        "value": "icon-stars3",
+        "type": "icon"
+      },
+      "stars4": {
+        "value": "icon-stars4",
+        "type": "icon"
+      },
+      "stars5": {
+        "value": "icon-stars5",
+        "type": "icon"
+      },
+      "successOutlined": {
+        "value": "icon-success-outlined",
+        "type": "icon"
+      },
+      "success": {
+        "value": "icon-success",
+        "type": "icon"
+      },
+      "ticket": {
+        "value": "icon-ticket",
+        "type": "icon"
+      },
+      "time": {
+        "value": "icon-time",
+        "type": "icon"
+      },
+      "trash": {
+        "value": "icon-trash",
+        "type": "icon"
+      },
+      "tripadvisorRat": {
+        "value": "icon-trip-advisor-rat",
+        "type": "icon"
+      },
+      "tripadvisor": {
+        "value": "icon-trip-advisor",
+        "type": "icon"
+      },
+      "tripadvisorBorder": {
+        "value": "icon-tripadvisor-border",
+        "type": "icon"
+      },
+      "tripadvisorFilled": {
+        "value": "icon-tripadvisor-filled",
+        "type": "icon"
+      },
+      "tripadvisorLogo": {
+        "value": "icon-tripadvisor-logo",
+        "type": "icon"
+      },
+      "twitter": {
+        "value": "icon-twitter",
+        "type": "icon"
+      },
+      "warning": {
+        "value": "icon-warning",
+        "type": "icon"
+      },
+      "youtube": {
+        "value": "icon-youtube",
+        "type": "icon"
+      }
+    }
+  }
+}

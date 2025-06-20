@@ -1,0 +1,1509 @@
+{
+  "sem": {
+    "fontFamily": {
+      "body": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "headings": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "subs": {
+        "value": "Unna",
+        "type": "fontFamilies"
+      }
+    },
+    "fontWeight": {
+      "body": {
+        "default": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "Medium",
+          "type": "fontWeights"
+        }
+      },
+      "display": {
+        "default": {
+          "value": "Bold",
+          "type": "fontWeights",
+          "description": "Standard weight for all display text"
+        }
+      },
+      "subtitle": {
+        "italic": {
+          "value": "Italic",
+          "type": "fontWeights"
+        },
+        "default": {
+          "value": "Regular",
+          "type": "fontWeights"
+        }
+      },
+      "title": {
+        "default": {
+          "value": "Medium",
+          "type": "fontWeights"
+        }
+      }
+    },
+    "fontSize": {
+      "display": {
+        "01-size": {
+          "value": "{prim.positive-56}",
+          "type": "fontSizes",
+          "description": "Highest display size. Used for display-01 typography style."
+        },
+        "02-size": {
+          "value": "{prim.positive-40}",
+          "type": "fontSizes",
+          "description": "Second display size. Used for display-02 typography style."
+        },
+        "03-size": {
+          "value": "{prim.positive-32}",
+          "type": "fontSizes",
+          "description": "Third display size. Used for display-03 typography style."
+        },
+        "04-size": {
+          "value": "{prim.positive-28}",
+          "type": "fontSizes",
+          "description": "Fourth display size. Used for display-04 typography style."
+        },
+        "05-size": {
+          "value": "{prim.positive-24}",
+          "type": "fontSizes",
+          "description": "Fifth display size. Used for display-05 typography style."
+        },
+        "06-size": {
+          "value": "{prim.positive-20}",
+          "type": "fontSizes",
+          "description": "Lowest display size. Used for display-06 typography style."
+        }
+      },
+      "sub": {
+        "01-size": {
+          "value": "{prim.positive-24}",
+          "type": "fontSizes",
+          "description": "Highest subtitle size. Used for sub-01 typography style."
+        },
+        "02-size": {
+          "value": "{prim.positive-18}",
+          "type": "fontSizes",
+          "description": "Lowest subtitle size. Used for sub-02 typography style."
+        }
+      },
+      "title": {
+        "01-size": {
+          "value": "{prim.positive-24}",
+          "type": "fontSizes",
+          "description": "Highest title size. Used for title-01 typography style."
+        },
+        "03-size": {
+          "value": "{prim.positive-18}",
+          "type": "fontSizes",
+          "description": "Third title size. Used for title-03 typography style."
+        },
+        "02-size": {
+          "value": "{prim.positive-20}",
+          "type": "fontSizes",
+          "description": "Second title size. Used for title-02 typography style."
+        }
+      },
+      "body": {
+        "01-size": {
+          "value": "{prim.positive-16}",
+          "type": "fontSizes",
+          "description": "Highest body size. Used for body-[font-style]-01 typography style."
+        },
+        "02-size": {
+          "value": "{prim.positive-14}",
+          "type": "fontSizes",
+          "description": "Highest body size. Used for body-[font-style]-02 typography style."
+        },
+        "caption-size": {
+          "value": "{prim.positive-12}",
+          "type": "fontSizes",
+          "description": "Default caption size used for caption-[font-style] typography style."
+        },
+        "details-size": {
+          "value": "{prim.positive-12}",
+          "type": "fontSizes",
+          "description": "Default font size used for details typography style."
+        }
+      },
+      "label": {
+        "01-size": {
+          "value": "{prim.positive-16}",
+          "type": "fontSizes",
+          "description": "Highest font size. Used for label-[font-style]-01 typography style."
+        },
+        "02-size": {
+          "value": "{prim.positive-14}",
+          "type": "fontSizes",
+          "description": "Second font size. Used for label-[font-style]-02 typography style."
+        },
+        "03-size": {
+          "value": "{prim.positive-12}",
+          "type": "fontSizes",
+          "description": "Lowest font size. Used for label-[font-style]-03 typography style."
+        }
+      },
+      "input": {
+        "01-size": {
+          "value": "{prim.positive-40}",
+          "type": "fontSizes",
+          "description": "Highest font size. Used for input-[font-style]-01 typography style."
+        },
+        "02-size": {
+          "value": "{prim.positive-16}",
+          "type": "fontSizes",
+          "description": "Second font size. Used for input-[font-style]-02 typography style."
+        },
+        "03-size": {
+          "value": "{prim.positive-14}",
+          "type": "fontSizes",
+          "description": "Lowest font size. Used for imput-[font-style]-03 typography style."
+        }
+      }
+    },
+    "lineHeight": {
+      "display": {
+        "01-height": {
+          "value": "{prim.positive-68}",
+          "type": "lineHeights",
+          "description": "Highest display height. Used for display-01 typography style."
+        },
+        "02-height": {
+          "value": "{prim.positive-48}",
+          "type": "lineHeights",
+          "description": "Second display height. Used for display-02 typography style."
+        },
+        "03-height": {
+          "value": "{prim.positive-40}",
+          "type": "lineHeights",
+          "description": "Third display height. Used for display-03 typography style."
+        },
+        "04-height": {
+          "value": "{prim.positive-40}",
+          "type": "lineHeights",
+          "description": "Fourth display height. Used for display-04 typography style."
+        },
+        "05-height": {
+          "value": "{prim.positive-32}",
+          "type": "lineHeights",
+          "description": "Fifth display height. Used for display-05 typography style."
+        },
+        "06-height": {
+          "value": "{prim.positive-28}",
+          "type": "lineHeights",
+          "description": "Sixth display height. Used for display-06 typography style."
+        }
+      },
+      "sub": {
+        "01-height": {
+          "value": "{prim.positive-32}",
+          "type": "lineHeights",
+          "description": "Highest subtitle height. Used for sub-01 typography style."
+        },
+        "02-height": {
+          "value": "{prim.positive-24}",
+          "type": "lineHeights",
+          "description": "Lowest subtitle height. Used for sub-02 typography style."
+        }
+      },
+      "title": {
+        "01-height": {
+          "value": "{prim.positive-32}",
+          "type": "lineHeights",
+          "description": "First title height. Used for title-01 typography style."
+        },
+        "03-height": {
+          "value": "{prim.positive-24}",
+          "type": "lineHeights",
+          "description": "Third title height. Used for title-03 typography style."
+        },
+        "02-height": {
+          "value": "{prim.positive-28}",
+          "type": "lineHeights",
+          "description": "Second title height. Used for title-02 typography style."
+        }
+      },
+      "body": {
+        "01-height": {
+          "value": "{prim.positive-24}",
+          "type": "lineHeights",
+          "description": "Highest body height. Used for body-[font-style]-01 typography style."
+        },
+        "02-height": {
+          "value": "{prim.positive-20}",
+          "type": "lineHeights",
+          "description": "Lowest body height. Used for body-[font-style]-01 typography style."
+        },
+        "caption-height": {
+          "value": "{prim.positive-16}",
+          "type": "lineHeights",
+          "description": "Default caption height used for caption-[font-style] typography style."
+        },
+        "details-height": {
+          "value": "{prim.positive-16}",
+          "type": "lineHeights",
+          "description": "Default font height used for details typography style."
+        }
+      },
+      "label": {
+        "01-height": {
+          "value": "{prim.positive-24}",
+          "type": "lineHeights",
+          "description": "Highest font height. Used for label-[font-style]-01 typography style."
+        },
+        "02-height": {
+          "value": "{prim.positive-20}",
+          "type": "lineHeights",
+          "description": "Second font height. Used for label-[font-style]-02 typography style."
+        },
+        "03-height": {
+          "value": "{prim.positive-16}",
+          "type": "lineHeights",
+          "description": "Lowest font height. Used for label-[font-style]-03 typography style."
+        }
+      },
+      "input": {
+        "01-height": {
+          "value": "{prim.positive-48}",
+          "type": "lineHeights",
+          "description": "Highest font height. Used for input-[font-style]-01 typography style."
+        },
+        "02-height": {
+          "value": "{prim.positive-24}",
+          "type": "lineHeights",
+          "description": "Second font height. Used for input-[font-style]-02 typography style."
+        },
+        "03-height": {
+          "value": "{prim.positive-20}",
+          "type": "lineHeights",
+          "description": "Lowest font height. Used for input-[font-style]-03 typography style."
+        }
+      }
+    },
+    "letterSpacing": {
+      "display": {
+        "01-spacing": {
+          "value": "{prim.positive-1}",
+          "type": "letterSpacing",
+          "description": "Letter spacing used for display-01 typography style."
+        },
+        "02-spacing": {
+          "value": "{prim.positive-05}",
+          "type": "letterSpacing",
+          "description": "Letter spacing used for display-02 typography style."
+        }
+      },
+      "body": {
+        "details-spacing": {
+          "value": "{prim.positive-1}",
+          "type": "letterSpacing",
+          "description": "Default letter spacing used for details typography style."
+        }
+      }
+    },
+    "breakpointName": {
+      "value": "desktop-sm (1024-1279)",
+      "type": "text",
+      "description": "String variable to bind the component’s breakpoint property to the breakpoint variable from the 🌈 [platform] Appearances Library. Learn more in the documentation https://design.accor.com/latest/get-started/designing/using-templates/guide-6MiFCQRw#section-adding-components-e7"
+    },
+    "size": {
+      "grid": {
+        "margins": {
+          "value": "{prim.positive-32}",
+          "type": "sizing",
+          "description": "margins width"
+        },
+        "gutter": {
+          "value": "{prim.positive-24}",
+          "type": "sizing",
+          "description": "gutter width"
+        },
+        "columns": {
+          "value": "{prim.positive-12}",
+          "type": "sizing",
+          "description": "column width"
+        },
+        "fullWidth": {
+          "value": "1024",
+          "type": "sizing"
+        },
+        "fullGrid": {
+          "value": "960",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "768",
+          "type": "sizing"
+        },
+        "2-cols": {
+          "value": "140",
+          "type": "sizing"
+        },
+        "3-cols": {
+          "value": "222",
+          "type": "sizing"
+        },
+        "4-cols": {
+          "value": "304",
+          "type": "sizing"
+        },
+        "5-cols": {
+          "value": "386",
+          "type": "sizing"
+        },
+        "halfGrid": {
+          "value": "468",
+          "type": "sizing"
+        },
+        "7-cols": {
+          "value": "550",
+          "type": "sizing"
+        },
+        "8-cols": {
+          "value": "632",
+          "type": "sizing"
+        },
+        "10-cols": {
+          "value": "796",
+          "type": "sizing"
+        }
+      },
+      "icon": {
+        "2xs": {
+          "value": "{prim.positive-16}",
+          "type": "sizing",
+          "description": "Minimal icons for dense interfaces or inline text elements."
+        },
+        "sm": {
+          "value": "{prim.positive-24}",
+          "type": "sizing",
+          "description": "Standard small icons for UI controls and navigation"
+        },
+        "md": {
+          "value": "{prim.positive-32}",
+          "type": "sizing",
+          "description": "Medium icons for primary actions and content areas"
+        },
+        "lg": {
+          "value": "{prim.positive-48}",
+          "type": "sizing",
+          "description": "Large icons for featured content and prominent actions"
+        },
+        "xl": {
+          "value": "{prim.positive-56}",
+          "type": "sizing",
+          "description": "Extra large icons for hero sections and primary features"
+        },
+        "2xl": {
+          "value": "{prim.positive-64}",
+          "type": "sizing",
+          "description": "ery large icons for major interface elements"
+        },
+        "max": {
+          "value": "{prim.positive-72}",
+          "type": "sizing",
+          "description": "Maximum size icons for splash screens and brand elements"
+        },
+        "xs": {
+          "value": "{prim.positive-20}",
+          "type": "sizing",
+          "description": "Small accent icons, typically used within form elements"
+        }
+      }
+    },
+    "space": {
+      "dynamic": {
+        "inline": {
+          "sm": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "The dynamic inline space tokens provide responsive spacing values for inline elements."
+          },
+          "2xl": {
+            "value": "{prim.positive-64}",
+            "type": "spacing",
+            "description": "The dynamic inline space tokens provide responsive spacing values for inline elements."
+          },
+          "lg": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "The dynamic inline space tokens provide responsive spacing values for inline elements."
+          },
+          "xl": {
+            "value": "{prim.positive-64}",
+            "type": "spacing",
+            "description": "The dynamic inline space tokens provide responsive spacing values for inline elements."
+          }
+        },
+        "insetSquish": {
+          "lg-h": {
+            "value": "{prim.positive-80}",
+            "type": "spacing",
+            "description": "The dynamic insetSquish space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 3:1 horizontal emphasis"
+          },
+          "lg-v": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "The dynamic insetSquish space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 3:1 horizontal emphasis"
+          },
+          "md-h": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "The dynamic insetSquish space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 1.5:1 horizontal emphasis"
+          },
+          "md-v": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "The dynamic insetSquish space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 1.5:1 horizontal emphasis"
+          }
+        },
+        "insetStretch": {
+          "sm-h": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "The dynamic insetStretch space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 0.75:1 horizontal emphasis"
+          },
+          "sm-v": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "The dynamic insetStretch space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 0.75:1 horizontal emphasis"
+          },
+          "xl-h": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "The dynamic insetStretch space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 0.75:1 horizontal emphasis"
+          },
+          "xl-v": {
+            "value": "{prim.positive-64}",
+            "type": "spacing",
+            "description": "The dynamic insetStretch space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 0.75:1 horizontal emphasis"
+          },
+          "lg-v": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "The dynamic insetStretch space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 0.67:1 horizontal emphasis"
+          },
+          "lg-h": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "The dynamic insetStretch space tokens provide responsive spacing values for non homogeneous padding elements - resulting in a visually squished layout. Ratio: 0.67:1 horizontal emphasis"
+          }
+        },
+        "inset": {
+          "xl": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "The dynamic inset space tokens provide responsive spacing values for homogeneous padding elements."
+          },
+          "lg": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "The dynamic inset space tokens provide responsive spacing values for homogeneous padding elements."
+          },
+          "sm": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "The dynamic inset space tokens provide responsive spacing values for homogeneous padding elements."
+          },
+          "xs": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "The dynamic inset space tokens provide responsive spacing values for homogeneous padding elements."
+          },
+          "md": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "The dynamic inset space tokens provide responsive spacing values for homogeneous padding elements."
+          }
+        },
+        "stack": {
+          "xs": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "The dynamic stack space tokens provide responsive spacing values for vertical aligned elements."
+          },
+          "xl": {
+            "value": "{prim.positive-64}",
+            "type": "spacing",
+            "description": "The dynamic stack space tokens provide responsive spacing values for vertical aligned elements."
+          },
+          "lg": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "The dynamic stack space tokens provide responsive spacing values for vertical aligned elements."
+          },
+          "md": {
+            "value": "{prim.positive-40}",
+            "type": "spacing",
+            "description": "The dynamic stack space tokens provide responsive spacing values for vertical aligned elements."
+          },
+          "2xl": {
+            "value": "{prim.positive-96}",
+            "type": "spacing",
+            "description": "The dynamic stack space tokens provide responsive spacing values for vertical aligned elements."
+          },
+          "sm": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "The dynamic stack space tokens provide responsive spacing values for vertical aligned elements."
+          },
+          "2xs": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "The dynamic stack space tokens provide responsive spacing values for vertical aligned elements."
+          }
+        },
+        "pinchVertical": {
+          "sm": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Minimim space applied only on the top and/or bottom of an element that dynamically varies from one breakpoint to another."
+          },
+          "lg": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "Large space applied only on the top and/or bottom of an element that dynamically varies from one breakpoint to another."
+          },
+          "xl": {
+            "value": "{prim.positive-40}",
+            "type": "spacing",
+            "description": "Extra large space applied only on the top and/or bottom of an element that dynamically varies from one breakpoint to another."
+          },
+          "2xl": {
+            "value": "{prim.positive-40}",
+            "type": "spacing",
+            "description": "Twice extra large space applied only on the top and/or bottom of an element that dynamically varies from one breakpoint to another."
+          },
+          "3xl": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "Maximum space applied only on the top and/or bottom of an element that dynamically varies from one breakpoint to another."
+          },
+          "md": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "Standard space applied only on the top and/or bottom of an element that dynamically varies from one breakpoint to another."
+          }
+        }
+      },
+      "static": {
+        "inline": {
+          "2xl": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "Double extra large spacing for major section breaks"
+          },
+          "2xs": {
+            "value": "{prim.positive-2}",
+            "type": "spacing",
+            "description": "Hairline spacing for very tight layouts"
+          },
+          "lg": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Large spacing for comfortable reading and interaction"
+          },
+          "md": {
+            "value": "{prim.positive-12}",
+            "type": "spacing",
+            "description": "Medium spacing for standard inline layouts"
+          },
+          "sm": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "Small spacing for compact groups and navigation"
+          },
+          "xl": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Extra large spacing for clear visual separation"
+          },
+          "xs": {
+            "value": "{prim.positive-4}",
+            "type": "spacing",
+            "description": "Minimal spacing between closely related elements"
+          },
+          "3xl": {
+            "value": "{prim.positive-40}",
+            "type": "spacing",
+            "description": "Triple extra large spacing for prominent separation"
+          },
+          "4xl": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "Quadruple extra large spacing for hero sections"
+          },
+          "5xl": {
+            "value": "{prim.positive-56}",
+            "type": "spacing",
+            "description": "Five times extra large spacing for dramatic separation"
+          },
+          "6xl": {
+            "value": "{prim.positive-64}",
+            "type": "spacing",
+            "description": "Six times extra large spacing for maximum emphasis"
+          }
+        },
+        "insetSquish": {
+          "2xs-h": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "minimum horizontal padding. Ratio: 2:1 horizontal emphasis"
+          },
+          "2xs-v": {
+            "value": "{prim.positive-4}",
+            "type": "spacing",
+            "description": "Minimum vertical padding. Ratio: 2:1 horizontal emphasis"
+          },
+          "lg-h": {
+            "value": "{prim.positive-20}",
+            "type": "spacing",
+            "description": "Large horizontal padding. Ratio: 1.25:1 horizontal emphasis"
+          },
+          "lg-v": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Large vertical padding. Ratio: 1.25:1 horizontal emphasis"
+          },
+          "md-h": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Standard horizontal padding. Ratio: 1.33:1 horizontal emphasis"
+          },
+          "md-v": {
+            "value": "{prim.positive-12}",
+            "type": "spacing",
+            "description": "Standard vertical padding. Ratio: 1.33:1 horizontal emphasis"
+          },
+          "sm-h": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Small horizontal padding. Ratio: 2:1 horizontal emphasis"
+          },
+          "sm-v": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "Small vertical padding. Ratio: 2:1 horizontal emphasis"
+          },
+          "xl-h": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "maximum horizontal padding. Ratio: 1.5:1 horizontal emphasis"
+          },
+          "xl-v": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "maximum vertical padding. Ratio: 1.5:1 horizontal emphasis"
+          },
+          "xs-h": {
+            "value": "{prim.positive-12}",
+            "type": "spacing",
+            "description": "Extra small horizontal padding. Ratio: 1.5:1 horizontal emphasis"
+          },
+          "xs-v": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "Extra small vertical padding. Ratio: 1.5:1 horizontal emphasis"
+          }
+        },
+        "insetStretch": {
+          "lg-h": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Large horizontal padding. Ratio: 1:1.33 vertical emphasis"
+          },
+          "lg-v": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "Large vertical padding. Ratio: 1:1.33 vertical emphasis"
+          },
+          "md-h": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Standard horizontal padding. Ratio: 1:2 vertical emphasis"
+          },
+          "md-v": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "Standard vertical padding. Ratio: 1:2 vertical emphasis"
+          },
+          "sm-h": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Small horizontal padding. Ratio: 1:1.5 vertical emphasis"
+          },
+          "sm-v": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Small vertical padding. Ratio: 1:1.5 vertical emphasis"
+          },
+          "xs-h": {
+            "value": "{prim.positive-12}",
+            "type": "spacing",
+            "description": "Minimum horizontal padding. Ratio: 1:1.33 vertical emphasis"
+          },
+          "xs-v": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Minimum vertical padding. Ratio: 1:1.33 vertical emphasis"
+          }
+        },
+        "inset": {
+          "2xl": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "maximum uniform padding for major containers"
+          },
+          "2xs": {
+            "value": "{prim.positive-4}",
+            "type": "spacing",
+            "description": "Extra small uniform padding for tight layouts"
+          },
+          "lg": {
+            "value": "{prim.positive-20}",
+            "type": "spacing",
+            "description": "Comfortable uniform padding for content areas"
+          },
+          "md": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Standard uniform padding for most UI components"
+          },
+          "sm": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "Small uniform internal spacing for small containers"
+          },
+          "xl": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Large uniform padding for spacious layouts"
+          },
+          "xs": {
+            "value": "{prim.positive-6}",
+            "type": "spacing",
+            "description": "Small uniform padding for compact components"
+          },
+          "min": {
+            "value": "{prim.positive-2}",
+            "type": "spacing",
+            "description": "Minimal uniform internal padding for very compact elements"
+          }
+        },
+        "pinchHorizontal": {
+          "2xs": {
+            "value": "{prim.positive-4}",
+            "type": "spacing",
+            "description": "Minimum space applied only on the right and/or left of an element, resulting in a vertical compression."
+          },
+          "lg": {
+            "value": "{prim.positive-20}",
+            "type": "spacing",
+            "description": "Large space applied only on the right and/or left of an element, resulting in a vertical compression."
+          },
+          "md": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Standard space applied only on the right and/or left of an element, resulting in a vertical compression."
+          },
+          "sm": {
+            "value": "{prim.positive-12}",
+            "type": "spacing",
+            "description": "Small space applied only on the right and/or left of an element, resulting in a vertical compression."
+          },
+          "xl": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Extra large space applied only on the right and/or left of an element, resulting in a vertical compression."
+          },
+          "xs": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "Extra small space applied only on the right and/or left of an element, resulting in a vertical compression."
+          },
+          "2xl": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "Maximum space applied only on the right and/or left of an element, resulting in a vertical compression."
+          }
+        },
+        "pinchVertical": {
+          "2xs": {
+            "value": "{prim.positive-4}",
+            "type": "spacing",
+            "description": "Minimum space applied only on the top and/or bottom of an element, resulting in a horizontal compression."
+          },
+          "lg": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Large space applied only on the top and/or bottom of an element, resulting in a horizontal compression."
+          },
+          "md": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Standard space applied only on the top and/or bottom of an element, resulting in a horizontal compression."
+          },
+          "sm": {
+            "value": "{prim.positive-12}",
+            "type": "spacing",
+            "description": "Small space applied only on the top and/or bottom of an element, resulting in a horizontal compression."
+          },
+          "xl": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "Extra large space applied only on the top and/or bottom of an element, resulting in a horizontal compression."
+          },
+          "xs": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "Extra small space applied only on the top and/or bottom of an element, resulting in a horizontal compression."
+          },
+          "2xl": {
+            "value": "{prim.positive-40}",
+            "type": "spacing",
+            "description": "Maximum space applied only on the top and/or bottom of an element, resulting in a horizontal compression."
+          }
+        },
+        "scale": {
+          "2xl": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Twice extra large generic value (24px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "2xs": {
+            "value": "{prim.positive-2}",
+            "type": "spacing",
+            "description": "Twice extra small generic value (2px). Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "lg": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Large generic value (16px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "3xl": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "3 times extra large generic value (32px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "md": {
+            "value": "{prim.positive-12}",
+            "type": "spacing",
+            "description": "Standard generic value (12px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "min": {
+            "value": "{prim.positive-1}",
+            "type": "spacing",
+            "description": "Minimal generic value (1px). Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "none": {
+            "value": "{prim.positive-0}",
+            "type": "spacing",
+            "description": "0px generic value. Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "sm": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "Small generic value (8px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "xl": {
+            "value": "{prim.positive-20}",
+            "type": "spacing",
+            "description": "Extra large generic value (20px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "xs": {
+            "value": "{prim.positive-4}",
+            "type": "spacing",
+            "description": "Extra small generic value (4px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "4xl": {
+            "value": "{prim.positive-40}",
+            "type": "spacing",
+            "description": "4 times extra large generic value (40px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "5xl": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "5 times extra large generic value (48px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "neg-3xl": {
+            "value": "{prim.negative-32}",
+            "type": "spacing",
+            "description": "Negative generic value (-32px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "neg-4xl": {
+            "value": "{prim.negative-48}",
+            "type": "spacing",
+            "description": "Negative generic value (-48px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "neg-xl": {
+            "value": "{prim.negative-16}",
+            "type": "spacing",
+            "description": "Negative generic value (-16px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "max": {
+            "value": "{prim.positive-48}",
+            "type": "spacing",
+            "description": "maximim generic value (64px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "neg-5xl": {
+            "value": "{prim.negative-88}",
+            "type": "spacing",
+            "description": "Minimal negative generic value (-88px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          },
+          "neg-2xl": {
+            "value": "{prim.negative-28}",
+            "type": "spacing",
+            "description": "Negative generic value (-28px).  Use this token if the system doesn't provide you a natural one suited for your need."
+          }
+        },
+        "stack": {
+          "2xl": {
+            "value": "{prim.positive-32}",
+            "type": "spacing",
+            "description": "Extra large vertical spacing for major content divisions"
+          },
+          "2xs": {
+            "value": "{prim.positive-2}",
+            "type": "spacing",
+            "description": "Minimal vertical spacing between tightly related elements"
+          },
+          "lg": {
+            "value": "{prim.positive-16}",
+            "type": "spacing",
+            "description": "Comfortable vertical spacing for grouped content"
+          },
+          "md": {
+            "value": "{prim.positive-12}",
+            "type": "spacing",
+            "description": "Standard vertical spacing between related elements"
+          },
+          "sm": {
+            "value": "{prim.positive-8}",
+            "type": "spacing",
+            "description": "Small vertical spacing for compact layouts"
+          },
+          "xl": {
+            "value": "{prim.positive-24}",
+            "type": "spacing",
+            "description": "Large vertical spacing for distinct content sections"
+          },
+          "xs": {
+            "value": "{prim.positive-4}",
+            "type": "spacing",
+            "description": "Very small vertical gaps between closely related items"
+          },
+          "3xl": {
+            "value": "{prim.positive-40}",
+            "type": "spacing",
+            "description": "Maximum vertical spacing for significant content separation"
+          }
+        }
+      },
+      "page": {
+        "withinPage": {
+          "value": "{prim.positive-56}",
+          "type": "spacing",
+          "description": "Standard spacing between major page sections."
+        },
+        "withinSection-md": {
+          "value": "{prim.positive-32}",
+          "type": "spacing",
+          "description": "Medium spacing within sections for standard groupings."
+        },
+        "beforeFooter": {
+          "value": "{prim.positive-48}",
+          "type": "spacing",
+          "description": "Spacing before the page footer."
+        },
+        "withinSection-lg": {
+          "value": "{prim.positive-48}",
+          "type": "spacing",
+          "description": "Large spacing within sections for loose groupings."
+        },
+        "withinSection-sm": {
+          "value": "{prim.positive-24}",
+          "type": "spacing",
+          "description": "Small spacing within sections for tight groupings."
+        },
+        "withinSection-xl": {
+          "value": "{prim.positive-56}",
+          "type": "spacing",
+          "description": "Extra large spacing within sections for maximum separation."
+        },
+        "afterHeader": {
+          "value": "{prim.positive-56}",
+          "type": "spacing",
+          "description": "Spacing after the main page header."
+        }
+      }
+    },
+    "typography": {
+      "icon": {
+        "s": {
+          "value": "{web.sem.typography.icon.s}",
+          "type": "typography"
+        },
+        "m": {
+          "value": "{web.sem.typography.icon.m}",
+          "type": "typography"
+        },
+        "l": {
+          "value": "{web.sem.typography.icon.l}",
+          "type": "typography"
+        },
+        "xl": {
+          "value": "{web.sem.typography.icon.xl}",
+          "type": "typography"
+        },
+        "2xl": {
+          "value": "{web.sem.typography.icon.2xl}",
+          "type": "typography"
+        }
+      }
+    },
+    "icon": {
+      "accor": {
+        "value": "{web.sem.icon.accor}",
+        "type": "icon",
+        "description": ""
+      },
+      "accorAll": {
+        "value": "{web.sem.icon.accorAll}",
+        "type": "icon",
+        "description": ""
+      },
+      "accorPlus": {
+        "value": "{web.sem.icon.accorPlus}",
+        "type": "icon",
+        "description": ""
+      },
+      "account": {
+        "value": "{web.sem.icon.account}",
+        "type": "icon",
+        "description": ""
+      },
+      "accountConnected": {
+        "value": "{web.sem.icon.accountConnected}",
+        "type": "icon",
+        "description": ""
+      },
+      "add": {
+        "value": "{web.sem.icon.add}",
+        "type": "icon",
+        "description": ""
+      },
+      "arrowDown": {
+        "value": "{web.sem.icon.arrowDown}",
+        "type": "icon",
+        "description": ""
+      },
+      "arrowLeft": {
+        "value": "{web.sem.icon.arrowLeft}",
+        "type": "icon",
+        "description": ""
+      },
+      "arrowUp": {
+        "value": "{web.sem.icon.arrowUp}",
+        "type": "icon",
+        "description": ""
+      },
+      "arrowRight": {
+        "value": "{web.sem.icon.arrowRight}",
+        "type": "icon",
+        "description": ""
+      },
+      "avatar": {
+        "value": "{web.sem.icon.avatar}",
+        "type": "icon",
+        "description": ""
+      },
+      "bed": {
+        "value": "{web.sem.icon.bed}",
+        "type": "icon",
+        "description": ""
+      },
+      "bulb": {
+        "value": "{web.sem.icon.bulb}",
+        "type": "icon",
+        "description": ""
+      },
+      "calendar": {
+        "value": "{web.sem.icon.calendar}",
+        "type": "icon",
+        "description": ""
+      },
+      "car": {
+        "value": "{web.sem.icon.car}",
+        "type": "icon",
+        "description": ""
+      },
+      "check": {
+        "value": "{web.sem.icon.check}",
+        "type": "icon",
+        "description": ""
+      },
+      "checkbox": {
+        "value": "{web.sem.icon.checkbox}",
+        "type": "icon",
+        "description": ""
+      },
+      "chevronDown": {
+        "value": "{web.sem.icon.chevronDown}",
+        "type": "icon",
+        "description": ""
+      },
+      "chevronLeft": {
+        "value": "{web.sem.icon.chevronLeft}",
+        "type": "icon",
+        "description": ""
+      },
+      "chevronRight": {
+        "value": "{web.sem.icon.chevronRight}",
+        "type": "icon",
+        "description": ""
+      },
+      "chevronUp": {
+        "value": "{web.sem.icon.chevronUp}",
+        "type": "icon",
+        "description": ""
+      },
+      "clear": {
+        "value": "{web.sem.icon.clear}",
+        "type": "icon",
+        "description": ""
+      },
+      "close": {
+        "value": "{web.sem.icon.close}",
+        "type": "icon",
+        "description": ""
+      },
+      "copyFilled": {
+        "value": "{web.sem.icon.copyFilled}",
+        "type": "icon",
+        "description": ""
+      },
+      "danger": {
+        "value": "{web.sem.icon.danger}",
+        "type": "icon",
+        "description": ""
+      },
+      "earnPoints": {
+        "value": "{web.sem.icon.earnPoints}",
+        "type": "icon",
+        "description": ""
+      },
+      "ecoCertification": {
+        "value": "{web.sem.icon.ecoCertification}",
+        "type": "icon",
+        "description": ""
+      },
+      "edit": {
+        "value": "{web.sem.icon.edit}",
+        "type": "icon",
+        "description": ""
+      },
+      "error": {
+        "value": "{web.sem.icon.error}",
+        "type": "icon",
+        "description": ""
+      },
+      "external": {
+        "value": "{web.sem.icon.external}",
+        "type": "icon",
+        "description": ""
+      },
+      "eye": {
+        "value": "{web.sem.icon.eye}",
+        "type": "icon",
+        "description": ""
+      },
+      "eyeSlash": {
+        "value": "{web.sem.icon.eyeSlash}",
+        "type": "icon",
+        "description": ""
+      },
+      "facebook": {
+        "value": "{web.sem.icon.facebook}",
+        "type": "icon",
+        "description": ""
+      },
+      "favorite": {
+        "value": "{web.sem.icon.favorite}",
+        "type": "icon",
+        "description": ""
+      },
+      "favoriteFull": {
+        "value": "{web.sem.icon.favoriteFull}",
+        "type": "icon",
+        "description": ""
+      },
+      "filter": {
+        "value": "{web.sem.icon.filter}",
+        "type": "icon",
+        "description": ""
+      },
+      "gallery": {
+        "value": "{web.sem.icon.gallery}",
+        "type": "icon",
+        "description": ""
+      },
+      "halfMoon": {
+        "value": "{web.sem.icon.halfMoon}",
+        "type": "icon",
+        "description": ""
+      },
+      "help": {
+        "value": "{web.sem.icon.help}",
+        "type": "icon",
+        "description": ""
+      },
+      "info": {
+        "value": "{web.sem.icon.info}",
+        "type": "icon",
+        "description": ""
+      },
+      "instagram": {
+        "value": "{web.sem.icon.instagram}",
+        "type": "icon",
+        "description": ""
+      },
+      "list": {
+        "value": "{web.sem.icon.list}",
+        "type": "icon",
+        "description": ""
+      },
+      "listing": {
+        "value": "{web.sem.icon.listing}",
+        "type": "icon",
+        "description": ""
+      },
+      "loading": {
+        "value": "{web.sem.icon.loading}",
+        "type": "icon",
+        "description": ""
+      },
+      "lockdown": {
+        "value": "{web.sem.icon.lockdown}",
+        "type": "icon",
+        "description": ""
+      },
+      "logoAll": {
+        "value": "{web.sem.icon.logoAll}",
+        "type": "icon",
+        "description": ""
+      },
+      "logoAllWithCard": {
+        "value": "{web.sem.icon.logoAllWithCard}",
+        "type": "icon",
+        "description": ""
+      },
+      "logoBackground": {
+        "value": "{web.sem.icon.logoBackground}",
+        "type": "icon",
+        "description": ""
+      },
+      "mail": {
+        "value": "{web.sem.icon.mail}",
+        "type": "icon",
+        "description": ""
+      },
+      "map": {
+        "value": "{web.sem.icon.map}",
+        "type": "icon",
+        "description": ""
+      },
+      "menuDots": {
+        "value": "{web.sem.icon.menuDots}",
+        "type": "icon",
+        "description": ""
+      },
+      "minus": {
+        "value": "{web.sem.icon.minus}",
+        "type": "icon",
+        "description": ""
+      },
+      "occupantAdult": {
+        "value": "{web.sem.icon.occupantAdult}",
+        "type": "icon",
+        "description": ""
+      },
+      "occupantChild": {
+        "value": "{web.sem.icon.occupantChild}",
+        "type": "icon",
+        "description": ""
+      },
+      "padlock": {
+        "value": "{web.sem.icon.padlock}",
+        "type": "icon",
+        "description": ""
+      },
+      "phone": {
+        "value": "{web.sem.icon.phone}",
+        "type": "icon",
+        "description": ""
+      },
+      "pin": {
+        "value": "{web.sem.icon.pin}",
+        "type": "icon",
+        "description": ""
+      },
+      "pinterest": {
+        "value": "{web.sem.icon.pinterest}",
+        "type": "icon",
+        "description": ""
+      },
+      "plane": {
+        "value": "{web.sem.icon.plane}",
+        "type": "icon",
+        "description": ""
+      },
+      "play": {
+        "value": "{web.sem.icon.play}",
+        "type": "icon",
+        "description": ""
+      },
+      "print": {
+        "value": "{web.sem.icon.print}",
+        "type": "icon",
+        "description": ""
+      },
+      "search": {
+        "value": "{web.sem.icon.search}",
+        "type": "icon",
+        "description": ""
+      },
+      "shopping": {
+        "value": "{web.sem.icon.shopping}",
+        "type": "icon",
+        "description": ""
+      },
+      "sort": {
+        "value": "{web.sem.icon.sort}",
+        "type": "icon",
+        "description": ""
+      },
+      "space": {
+        "value": "{web.sem.icon.space}",
+        "type": "icon",
+        "description": ""
+      },
+      "spinner": {
+        "value": "{web.sem.icon.spinner}",
+        "type": "icon",
+        "description": ""
+      },
+      "starFilled": {
+        "value": "{web.sem.icon.starFilled}",
+        "type": "icon",
+        "description": ""
+      },
+      "starOutlined": {
+        "value": "{web.sem.icon.starOutlined}",
+        "type": "icon",
+        "description": ""
+      },
+      "stars0": {
+        "value": "{web.sem.icon.stars0}",
+        "type": "icon",
+        "description": ""
+      },
+      "stars1": {
+        "value": "{web.sem.icon.stars1}",
+        "type": "icon",
+        "description": ""
+      },
+      "stars2": {
+        "value": "{web.sem.icon.stars2}",
+        "type": "icon",
+        "description": ""
+      },
+      "stars3": {
+        "value": "{web.sem.icon.stars3}",
+        "type": "icon",
+        "description": ""
+      },
+      "stars4": {
+        "value": "{web.sem.icon.stars4}",
+        "type": "icon",
+        "description": ""
+      },
+      "stars5": {
+        "value": "{web.sem.icon.stars5}",
+        "type": "icon",
+        "description": ""
+      },
+      "success": {
+        "value": "{web.sem.icon.success}",
+        "type": "icon",
+        "description": ""
+      },
+      "successOutlined": {
+        "value": "{web.sem.icon.successOutlined}",
+        "type": "icon",
+        "description": ""
+      },
+      "ticket": {
+        "value": "{web.sem.icon.ticket}",
+        "type": "icon",
+        "description": ""
+      },
+      "time": {
+        "value": "{web.sem.icon.time}",
+        "type": "icon",
+        "description": ""
+      },
+      "trash": {
+        "value": "{web.sem.icon.trash}",
+        "type": "icon",
+        "description": ""
+      },
+      "tripadvisor": {
+        "value": "{web.sem.icon.tripadvisor}",
+        "type": "icon",
+        "description": ""
+      },
+      "tripadvisorBorder": {
+        "value": "{web.sem.icon.tripadvisorBorder}",
+        "type": "icon",
+        "description": ""
+      },
+      "tripadvisorFilled": {
+        "value": "{web.sem.icon.tripadvisorFilled}",
+        "type": "icon",
+        "description": ""
+      },
+      "tripadvisorLogo": {
+        "value": "{web.sem.icon.tripadvisorLogo}",
+        "type": "icon",
+        "description": ""
+      },
+      "tripadvisorRat": {
+        "value": "{web.sem.icon.tripadvisorRat}",
+        "type": "icon",
+        "description": ""
+      },
+      "twitter": {
+        "value": "{web.sem.icon.twitter}",
+        "type": "icon",
+        "description": ""
+      },
+      "warning": {
+        "value": "{web.sem.icon.warning}",
+        "type": "icon",
+        "description": ""
+      },
+      "youtube": {
+        "value": "{web.sem.icon.youtube}",
+        "type": "icon",
+        "description": ""
+      }
+    }
+  }
+}

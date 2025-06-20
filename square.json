@@ -1,0 +1,51 @@
+{
+  "sem": {
+    "radius": {
+      "xs": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Extra small radius. Subtle corner rounding for small elements."
+      },
+      "sm": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Small radius. Usage: standard light corner rounding."
+      },
+      "xl": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Extra large radius. Usage: significant corner rounding."
+      },
+      "md": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Medium radius. Usage: balanced corner rounding for most elements."
+      },
+      "2xs": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Extra extra small radius. Usage: minimal rounding, subtle corner softening."
+      },
+      "l": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Large radius. Usage: prominent corner rounding."
+      },
+      "2xl": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Extra extra large radius. Usage: very rounded corners."
+      },
+      "3xl": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Triple extra large radius. Usage: highly rounded corners."
+      },
+      "4xl": {
+        "value": "{prim.positive-0}",
+        "type": "borderRadius",
+        "description": "Quadruple extra large radius. Usage: maximum standard rounding."
+      }
+    }
+  }
+}
